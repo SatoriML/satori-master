@@ -1,9 +1,9 @@
-# {{Kundnamn}}
+# Studieförbundet Bilda Förbundskansliet
 
 ## Affär
-- **Värde:**
+- **Värde:** 50000 kr
 - **Tjänst:**
-- **Status:**
+- **Status:** Won
 - **Startdatum:**
 - **Slutdatum:**
 
@@ -14,7 +14,7 @@
 - **Roll:**
 
 ## Avtal
-- **Avtalsstatus:** [ ] Offert [ ] Signerat [ ] Avslutat
+- **Avtalsstatus:** [x] Signerat [ ] Offert [ ] Avslutat
 - **Avtalsdokument:** [[6.Avtal/]]
 - **Avtalsperiod:**
 
@@ -26,7 +26,7 @@
 
 
 ## Status
-- [ ] Affär vunnen
+- [x] Affär vunnen
 - [ ] Avtal signerat
 - [ ] Projekt påbörjat
 - [ ] Projekt genomfört
@@ -46,4 +46,4 @@
 ```
 
 ---
-*{{värde}} kr - {{tjänst}} - {{status}}*
+*50000 kr - Won*
