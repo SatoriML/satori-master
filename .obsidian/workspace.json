@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "c6de4de5d81017ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "60b4ad04195cbbec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da6ef7710dbb1181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketing/0.Generated/linkedin-joachim/2025-09-12-joachim-parallel-processing-posts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-12-joachim-parallel-processing-posts"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1400d007f5b5ff81",
+    "type": "split",
+    "children": [
+      {
+        "id": "102d1f5e6474778c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f45b2434cd97a637",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2cc11d6e4ed0f5bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f20806fe3b4a3491",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c8f8142bfc079d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc7c6759a4834d4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5873e640ca5bfed2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Agent/linked-in-joachim/generated/prompt-engineering-contrarian-kort.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for prompt-engineering-contrarian-kort"
+            }
+          },
+          {
+            "id": "3cd0bfa5159ef7f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Agent/linked-in-joachim/generated/prompt-engineering-contrarian-kort.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from prompt-engineering-contrarian-kort"
+            }
+          },
+          {
+            "id": "75cecaaa654b961f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e4307f96bebe8cba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Agent/linked-in-joachim/generated/prompt-engineering-contrarian-kort.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of prompt-engineering-contrarian-kort"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "da6ef7710dbb1181",
+  "lastOpenFiles": [
+    "Marketing/logo_transparent.png.zip",
+    "Marketing/0.Generated/linkedin-joachim/2025-09-12-ai-first-superkrafter-variations.md",
+    "Marketing/0.Generated/linkedin-joachim/2025-09-12-joachim-parallel-processing-posts.md",
+    "Marketing/0.Generated/linkedin-joachim/2025-09-10-nature-minimalism-posts.md",
+    "Kunder/8.Kunder/Folkbildningsrådet/Avtal v2 Satori-FBR 2025-09-03 signed.pdf",
+    "Kunder/KSS/2.Timmar-fakturering/Sept.md",
+    "Kunder/8.Kunder/KSS/Möten/2025-08-28-Mötesanteckningar.md",
+    "Kunder/8.Kunder/KSS/Möten/2025-01-28-Mötesförberedelse.md",
+    "Kunder/8.Kunder/KSS/2.Timmar-fakturering/Sept.md",
+    "Kunder/8.Kunder/KSS/KSS.md",
+    "Kunder/8.Kunder/KSS/Timrapportering.md",
+    "Kunder/8.Kunder/KSS/Möten",
+    "Kunder/8.Kunder/KSS/5.Notes-Todos",
+    "Kunder/8.Kunder/KSS/4.Strategi",
+    "Kunder/8.Kunder/KSS/3.Tjänster",
+    "Kunder/8.Kunder/KSS/2.Timmar-fakturering",
+    "Kunder/8.Kunder/KSS/1.Möten",
+    "Kunder/8.Kunder/KSS",
+    "Kunder/8.Kunder/Folkbildningsrådet/5.Notes-Todos",
+    "Kunder/8.Kunder/Folkbildningsrådet/4.Strategi",
+    "Kunder/8.Kunder/Berättarministeriet/Berättarministeriet.md",
+    "Kunder/8.Kunder/Berättarministeriet/Timrapportering.md",
+    "Kunder/8.Kunder/Aenigma AB/Timrapportering.md",
+    "Kunder/8.Kunder/Aenigma AB/Aenigma AB.md",
+    "Marketing/0.Generated/linkedin-joachim/2025-09-11-satori-chat-origin-story.md",
+    "Marketing/3.Context/satori-chat-marknadsföring.md",
+    "Marketing/0.Generated/linkedin-joachim/2025-09-10-joachim-linkedin-posts.md",
+    "Marketing/3.Context/Brand-Voice.md",
+    "Agent/linked-in-joachim/2025-09-10-joachim-linkedin-posts.md",
+    "Marketing/2.Agents/LinkedIn-Joachim-Agent.md",
+    "Marketing/0.Generated/linkedin-satori/veo3-favourites/red-bull-inspired-viral-concepts.md",
+    "Marketing/0.Generated/linkedin-satori/favourites/2025-09-03-cloud-act-datasuveranitet-10-posts.md",
+    "Marketing/0.Generated/linkedin-satori/2025-09-03-story-based-ai-challenges.md",
+    "Marketing/0.Generated/linkedin-satori/2025-09-03-satori-chat-lansering-5-versioner.md",
+    "Marketing/0.Generated/linkedin-satori/2025-09-03-problem-solving-ai-adoption.md",
+    "Marketing/0.Generated/linkedin-satori/2025-09-03-data-driven-ai-reality.md",
+    "Sälj/Process/Untitled.canvas",
+    "Mallar/satoriml-logo.svg",
+    "Untitled.canvas"
+  ]
+}
