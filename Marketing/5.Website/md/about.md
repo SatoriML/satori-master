@@ -13,6 +13,8 @@ lastSync: '2025-01-25'
 ## Företagsöversikt
 Vi hjälper företag att navigera AI-revolutionen och implementera lösningar som skapar verkligt värde. Vår expertis ligger i att göra AI tillgängligt, praktiskt och värdefullt för din organisation.
 
+Med vår omfattande utbildningsplattform satori-academy, professionella Template-bibliotek och beprövade KLARAT-metodiken erbjuder vi kompletta lösningar för AI-transformation - från grundläggande förståelse till avancerad implementation.
+
 ## Vision
 Att skapa en framtid där människor och AI samarbetar på ett sätt som främjar både individer och samhället som helhet. Vi tror på en balanserad integration av AI-teknologi som förstärker mänsklig kreativitet utan att ersätta det genuint mänskliga i arbetslivet och samhället.
 
@@ -42,6 +44,7 @@ Vi är dedikerade till ständig utveckling och kunskapsdelning i det snabbt för
 - Strategi
 - Ledarskap
 - AI Transformation
+- Utbildningsdesign & Certifiering
 
 **Kontakt:**
 - E-post: joachim@satoriml.se
@@ -60,6 +63,7 @@ Vi är dedikerade till ständig utveckling och kunskapsdelning i det snabbt för
 - Applied AI
 - Innovation
 - Tech
+- Template Engineering & KLARAT-metodiken
 
 **Kontakt:**
 - E-post: martin@satoriml.se

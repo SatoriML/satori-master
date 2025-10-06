@@ -67,7 +67,17 @@ Integrera AI i dina nuvarande processer. Börja i liten skala och expandera när
 #### 4. Utvärdera och förfina
 Granska alltid AI:ns resultat. Ge feedback och förfina dina instruktioner för att kontinuerligt förbättra kvaliteten på resultaten.
 
+#### 5. Strukturerad vidareutbildning
+För djupare kunskaper och certifiering, överväg vårt [AI-Körkort](./ai-korkort.md) - ett komplett program som tar dig från nybörjare till expert.
+
 > "Tänk på AI som en mycket kompetent praktikant - kraftfull men i behov av tydlig vägledning och kvalitetskontroll."
+
+### 📚 Nästa steg i din AI-resa
+
+**För strukturerad utveckling:**
+- **[AI-Körkort](./ai-korkort.md)** - Certifieringsprogram med interaktiva moduler
+- **[KLARAT-metodiken](./klarat-method.md)** - Professionell prompt-engineering
+- **[Template-bibliotek](./ai-templates.md)** - Färdiga lösningar för vanliga uppgifter
 
 ## 3. Upplev AI:s kraft - Konkreta exempel
 

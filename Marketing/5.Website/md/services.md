@@ -25,7 +25,7 @@ Inspirationsföreläsning om AI och dess möjligheter för er organisation. Skr�
 **Detaljer:**
 - Längd: 45-90 minuter
 - Format: På plats eller digitalt
-- Pris: 11 900 kr
+- Pris: 17 900 kr
 
 ### satori-workshop
 Frigör potentialen i AI genom våra praktiska workshops där du lär dig skapa skräddarsydda GPTs.
@@ -38,10 +38,10 @@ Frigör potentialen i AI genom våra praktiska workshops där du lär dig skapa 
 **Detaljer:**
 - Längd: 4 timmar
 - Gruppstorlek: Max 8 deltagare
-- Pris: 14 900 kr per workshop
+- Pris: 34 900 kr per workshop
 
 ### satori-uppstart
-Ett komplett paket för att snabbt komma igång med AI i er verksamhet över 8 veckor, med konkret handlingsplan, AI-riktlinjer och full AI-advisor tillgång.
+Ett komplett paket för att snabbt komma igång med AI i er verksamhet över 3 eller 6 månader, med konkret handlingsplan, AI-riktlinjer och full AI-advisor tillgång.
 
 **Innehåll:**
 - AI-behovsanalys och kartläggning
@@ -52,7 +52,7 @@ Ett komplett paket för att snabbt komma igång med AI i er verksamhet över 8 v
 - Kontinuerligt uppstart partnerskap
 
 **Detaljer:**
-- Tidsram: 8 veckor
+- Tidsram: 3 eller 6 månader
 - Resultat: Färdig AI-implementering med strategi
 - Pris: Kontakta oss för prisuppgift
 
@@ -94,7 +94,7 @@ Vi utvecklar en Minimum Viable Product (MVP) för din idé på bara 10 timmar. H
 **Detaljer:**
 - Tidsram: 10 timmar
 - Leverans: Funktionell prototyp
-- Pris: Från 17 500 kr
+- Pris: Från 34 900 kr
 
 ### satori-compliance
 Säkerställ trygghet och efterlevnad med vår anpassade LLM-lösning. Vi går igenom era specifika datakrav och sätter upp lämplig hosting i Sverige eller EU.
@@ -135,17 +135,26 @@ Expertrådgivning inom AI och digitala lösningar med fokus på faktiskt värdes
 
 **Detaljer:**
 - Kompetenser: AI, Data, Utveckling
-- Pris: 1 750 kr per timme
+- Pris: 2 200 kr per timme
 
 ## Kunskapsresurser
 
 Vi erbjuder även kunskapsresurser för att hjälpa er komma igång med AI:
 
+### AI-Körkort (Certifieringsprogram)
+Komplett utbildningsplattform med interaktiva moduler, quiz och praktiska övningar. Få erkänd certifiering inom AI och bygg upp expertis steg för steg.
+
+### Template-bibliotek & Builder
+Professionella AI-prompts optimerade med KLARAT-metodiken. Använd vårt bibliotek med färdiga templates eller skapa egna med vår Template Builder.
+
 ### AI-Policy (Mall)
 Färdig policy-mall för säker och laglig AI-användning i organisationen. Inkluderar GDPR-kompatibla riktlinjer och praktiska exempel.
 
 ### Prompt-guide
-Omfattande guide för att skriva effektiva prompts och få bättre resultat från AI-verktyg. Inkluderar KLARA-metoden och färdiga mallar.
+Omfattande guide för att skriva effektiva prompts och få bättre resultat från AI-verktyg. Inkluderar KLARAT-metoden och färdiga mallar.
+
+### KLARAT-metodiken
+Vår systematiska approach för professionell prompt-engineering. Sex grundpelare för konsekvent framgångsrik AI-kommunikation.
 
 ### Kom igång med AI
 Grundläggande guide som tar er från AI-nybörjare till praktisk användning i vardagen.

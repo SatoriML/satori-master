@@ -18,6 +18,8 @@ Prata med AI som en kollega - enkelt, naturligt och effektivt.
 
 AI behöver inte komplicerade instruktioner. Prata som du skulle med en kollega som vill hjälpa dig.
 
+*Alla exempel här följer vår beprövade KLARAT-metodiken för optimal prompt-design - lär dig mer om [KLARAT-metodiken](./klarat-method.md) för professionell prompt-engineering.*
+
 **Starta enkelt och låt AI fråga vad den behöver veta:**
 
 ### Exempel på enkla prompts som fungerar
@@ -94,6 +96,8 @@ Kan du hjälpa mig göra en plan? Vad vill du veta mer?
 - **🤖 Be AI optimera** - Förklara kort vad du vill, be AI skapa en bättre prompt
 - **📎 Bifoga alltid** - Filer, bilder, exempel förbättrar kvaliteten dramatiskt
 - **✅ Validera** - "Kontrollera detta för fel och förbättra"
+- **🎯 Använd KLARAT** - För professionella resultat, använd vår [KLARAT-metodiken](./klarat-method.md)
+- **📚 Utforska templates** - Upptäck vårt [Template-bibliotek](./ai-templates.md) för färdiga lösningar
 
 ## 2. AI som samtalshelpare
 

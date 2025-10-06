@@ -21,9 +21,20 @@ Välkommen till vår omfattande kunskapsbank med allt du behöver för att lycka
 - Konkreta användningsområden
 - Tre kunskapsnivåer: från Google-ersättare till specialiserade assistenter
 
-**Tidsåtgång:** 15-20 minuter  
-**Nivå:** Nybörjare  
+**Tidsåtgång:** 15-20 minuter
+**Nivå:** Nybörjare
 **Resultat:** Grundläggande AI-förståelse och första steg
+
+### För strukturerad utbildning
+**[AI-Körkort](./ai-korkort.md)**
+- Komplett certifieringsprogram för AI-expertis
+- Interaktiva moduler med quiz och praktiska övningar
+- Progress tracking och personlig utveckling
+- Digital certifiering vid slutförande
+
+**Tidsåtgång:** 20-30 timmar totalt
+**Nivå:** Nybörjare till avancerad
+**Resultat:** Certifierad AI-kompetens och praktisk expertis
 
 ### För beslutsfattare
 **[AI-Policy (Mall)](./ai-policy.md)**
@@ -40,14 +51,35 @@ Välkommen till vår omfattande kunskapsbank med allt du behöver för att lycka
 
 ### För daglig användning
 **[Prompt-guide](./prompting-guide.md)**
-- KLARA-metoden för bättre prompts
+- KLARAT-metoden för bättre prompts
 - Kontext - det viktigaste för bra svar
 - Färdiga mallar för vanliga uppgifter
 - Professionella prompt-tekniker
 
-**Tidsåtgång:** 25-30 minuter  
-**Nivå:** Grundläggande till avancerad  
+**Tidsåtgång:** 25-30 minuter
+**Nivå:** Grundläggande till avancerad
 **Resultat:** Dramatiskt förbättrade AI-resultat
+
+### För professionell prompt-design
+**[KLARAT-metodiken](./klarat-method.md)**
+- Systematisk approach för prompt-engineering
+- Sex grundpelare för framgångsrik AI-kommunikation
+- Branschspecifika tillämpningar och best practices
+- Mätning och optimering av prompt-kvalitet
+
+**Tidsåtgång:** 45-60 minuter
+**Nivå:** Mellannivå till expert
+**Resultat:** Professionell prompt-engineering kompetens
+
+**[AI-Templates](./ai-templates.md)**
+- Bibliotek med professionella prompt-mallar
+- KLARAT-optimerade templates för alla användningsområden
+- Template Builder för att skapa egna prompts
+- Community-delning och samarbete
+
+**Tidsåtgång:** 30-40 minuter
+**Nivå:** Alla nivåer
+**Resultat:** Tillgång till professionella prompt-bibliotek
 
 ## 📚 Hjälpresurser
 
@@ -76,20 +108,23 @@ Välkommen till vår omfattande kunskapsbank med allt du behöver för att lycka
 1. Läs "Kom igång med AI" → Grundläggande förståelse
 2. Implementera "AI-Policy" → Säker användning
 3. Börja med "Prompt-guide" → Första praktiska resultat
+4. Starta AI-Körkort → Strukturerad certifiering
 ```
 
 ### 2. Mellannivå (2-4 veckor)
 ```
-4. Fördjupa prompt-tekniker → Avancerade resultat
-5. Testa olika AI-verktyg → Hitta rätt verktyg
-6. Implementera i team → Organisatorisk spridning
+5. Fördjupa KLARAT-metodiken → Professionell prompt-design
+6. Utforska AI-Templates → Färdiga lösningar
+7. Använd Template Builder → Skapa egna prompts
+8. Implementera i team → Organisatorisk spridning
 ```
 
 ### 3. Avancerad nivå (löpande)
 ```
-7. Skapa specialiserade assistenter → Anpassade lösningar
-8. Automatisera arbetsflöden → Maximal effektivitet
-9. Kontinuerlig optimering → Följ utvecklingen
+9. Slutför AI-Körkort certifiering → Erkänd kompetens
+10. Bidra till Template-community → Dela kunskap
+11. Progress tracking optimization → Mät utveckling
+12. Kontinuerlig optimering → Följ utvecklingen
 ```
 
 ## 🔧 Implementeringsguide
@@ -163,7 +198,7 @@ Välkommen till vår omfattande kunskapsbank med allt du behöver för att lycka
 - **Martin**: martin@satoriml.se, +46 79-102 31 44
 
 ### Våra tjänster
-- **satori-uppstart**: Komplett 8-veckors implementering (kontakta oss för prisuppgift)
+- **satori-uppstart**: Komplett 3 eller 6 månaders implementering (kontakta oss för prisuppgift)
 - **satori-workshop**: Praktisk AI-workshop (14 900 kr)
 - **satori-keynote**: Inspirationsföreläsning (11 900 kr)
 - **satori-consulting**: Expert-rådgivning (1 750 kr/timme)

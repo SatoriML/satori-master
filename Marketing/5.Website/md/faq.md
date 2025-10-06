@@ -12,7 +12,7 @@ lastSync: '2025-01-25'
 ## Om AI-implementering
 
 ### Hur lång tid tar det att implementera AI i vår verksamhet?
-Med vårt **satori-uppstart** paket tar det 8 veckor från start till att ni har en fungerande AI-implementering. Vi fokuserar på snabba, praktiska resultat.
+Med vårt **satori-uppstart** paket tar det 3 eller 6 månader från start till att ni har en fungerande AI-implementering. Vi fokuserar på långsiktig framgång och hållbar implementering.
 
 ### Vilka AI-verktyg rekommenderar ni?
 Vi rekommenderar olika verktyg beroende på era behov:
