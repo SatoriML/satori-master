@@ -37,7 +37,7 @@ Posta → 5 engagements → Svara alla inom 1h → ALDRIG be om likes
 **33% AI thought leadership** - Gen AI-bransch, Trender, Kontroversiella perspektiv, Auktoritet
 
 **FORMAT-VARIATION:**
-- Karuseller: PDF 20 slides, Hook slide 1
+- Karuseller: PDF 7 slides, Hook slide 1
 - Video: 30-60s vertikal (9:16), Demo + talking head
 - Text: 600-1200 tecken, White space, Fråga-avslut
 
