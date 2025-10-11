@@ -15,7 +15,7 @@ Zen-effektiv mötesförberedelse som levererar endast kritisk information.
 
 ### Meeting Prep Process:
 1. **Identifiera kundtyp** (ny/befintlig)
-2. **Samla relevant data** från Kunder/[kundnamn]/
+2. **Samla relevant data** från `clients/[kundnamn]/` eller `growth/pipeline/stages/FasX/[kundnamn]/` om prospect
 3. **Analysera senaste interaktioner** 
 4. **Skapa 5-punkt briefing**
 5. **Föreslå 3 specifika talking points**

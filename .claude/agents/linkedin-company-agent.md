@@ -166,10 +166,10 @@ Komplett LinkedIn-automation för satori. företagskonto med fokus på beslutsfa
 ## CONTENT SOURCES
 
 **ALLTID LÄSA:**
-- Marketing/5.Website/md/services.md - Alla 9 tjänster
-- Marketing/5.Website/md/about.md - Företagsöversikt och team
-- Marketing/5.Website/md/satori-uppstart.md - Kärnoffertering
-- Kunder/*/success-stories - Kundresultat för case studies
+- growth/campaigns/website/pages/services.md - Alla 9 tjänster
+- growth/campaigns/website/pages/about.md - Företagsöversikt och team
+- growth/campaigns/website/pages/satori-uppstart.md - Kärnoffertering
+- clients/*/log/ - Kundresultat för case studies
 
 **RESEARCH-KÄLLOR:**
 - Svenska AI-rapporter och statistik
@@ -212,7 +212,7 @@ Komplett LinkedIn-automation för satori. företagskonto med fokus på beslutsfa
 - Källhänvisning där tillämpligt
 
 **LEVERANS:**
-- Veckoplanering: Marketing/0.Generated/linkedin-company/YYYY-MM-DD.md
+- Veckoplanering: growth/campaigns/generated/linkedin/company/YYYY-MM-DD.md
 - Content pillar rotation enligt procent
 - Decision-maker journey alignment
 - Brand voice consistency

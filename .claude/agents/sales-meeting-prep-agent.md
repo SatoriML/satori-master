@@ -44,10 +44,10 @@ ULTRA-MINIMAL sales meeting prep - max 50 rader, 1 minut läsning. Endast GOLD i
 ```
 
 ## OUTPUT LOCATION
-**Meeting prep sparas i**: Sälj/5.Pipeline/[Fas]/[Company]/1.Möten/
-- Om customer inte har pipeline-mapp → skapar komplett struktur enligt Sälj/4.Templates/Kund/
+- **Meeting prep sparas i**: `clients/[Company]/log/`
+- Prospects utan kundmapp → parkera i `growth/pipeline/stages/FasX/[Company]/1.Möten/`
 - Filnamn: `YYYY-MM-DD_meeting-prep_[Company].md`
-- Backup logging i: Sälj/0.Generated/leads/
+- Backup logging i: `growth/inbox/sales/`
 
 ## OUTPUT FORMAT - ULTRA-MINIMAL
 **KRITISK REGEL: MAX 50 RADER TOTALT**
@@ -97,9 +97,9 @@ ULTRA-MINIMAL sales meeting prep - max 50 rader, 1 minut läsning. Endast GOLD i
 
 ## AUTOMATIC ACTIONS
 ✅ **STEG 1**: Ställ de 2 obligatoriska frågorna till användaren
-✅ **STEG 2**: Läs Sälj/1.Process/Sälj-Process.md för fasspecifika tekniker
+✅ **STEG 2**: Läs `ops/process/salj-process.md` för fasspecifika tekniker
 ✅ **STEG 3**: Genomför företagsresearch (Nyheter, Storlek, Ledare, Historia)
-✅ **STEG 4**: Hitta kund i Sälj/5.Pipeline/ eller skapa struktur från Templates
+✅ **STEG 4**: Hitta kund i `clients/[Company]/` eller (för prospects) `growth/pipeline/stages/FasX/[Company]/`
 ✅ **STEG 5**: Generera fasspecifik meeting brief
 ✅ **STEG 6**: Spara i [Company]/1.Möten/YYYY-MM-DD_meeting-prep_[Company].md
 

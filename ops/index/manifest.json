@@ -1,0 +1,285 @@
+{
+  "generated_at": "2025-10-11T22:10:38Z",
+  "clients": [
+    {
+      "name": "Aenigma AB",
+      "notes": "clients/Aenigma AB/notes.md",
+      "log": "clients/Aenigma AB/log",
+      "assets": "clients/Aenigma AB/assets",
+      "last_note_edit": "2025-08-06"
+    },
+    {
+      "name": "Arkeologikonsult Sverige AB",
+      "notes": null,
+      "log": "clients/Arkeologikonsult Sverige AB/log",
+      "assets": "clients/Arkeologikonsult Sverige AB/assets",
+      "last_note_edit": null
+    },
+    {
+      "name": "Berättarministeriet",
+      "notes": "clients/Berättarministeriet/notes.md",
+      "log": "clients/Berättarministeriet/log",
+      "assets": "clients/Berättarministeriet/assets",
+      "last_note_edit": "2025-09-04"
+    },
+    {
+      "name": "Brottsofferjouren",
+      "notes": null,
+      "log": "clients/Brottsofferjouren/log",
+      "assets": "clients/Brottsofferjouren/assets",
+      "last_note_edit": null
+    },
+    {
+      "name": "Edvin Larssons Mekaniska Aktiebolag",
+      "notes": "clients/Edvin Larssons Mekaniska Aktiebolag/notes.md",
+      "log": "clients/Edvin Larssons Mekaniska Aktiebolag/log",
+      "assets": "clients/Edvin Larssons Mekaniska Aktiebolag/assets",
+      "last_note_edit": "2025-09-19"
+    },
+    {
+      "name": "FHP-Service",
+      "notes": null,
+      "log": "clients/FHP-Service/log",
+      "assets": "clients/FHP-Service/assets",
+      "last_note_edit": null
+    },
+    {
+      "name": "Folkbildningsrådet",
+      "notes": null,
+      "log": "clients/Folkbildningsrådet/log",
+      "assets": "clients/Folkbildningsrådet/assets",
+      "last_note_edit": null
+    },
+    {
+      "name": "Jmw Bygg och Fastighets AB",
+      "notes": "clients/Jmw Bygg och Fastighets AB/notes.md",
+      "log": "clients/Jmw Bygg och Fastighets AB/log",
+      "assets": "clients/Jmw Bygg och Fastighets AB/assets",
+      "last_note_edit": "2025-09-19"
+    },
+    {
+      "name": "KSS",
+      "notes": "clients/KSS/notes.md",
+      "log": "clients/KSS/log",
+      "assets": "clients/KSS/assets",
+      "last_note_edit": "2025-09-04"
+    },
+    {
+      "name": "Kvadrat AB",
+      "notes": "clients/Kvadrat AB/notes.md",
+      "log": "clients/Kvadrat AB/log",
+      "assets": "clients/Kvadrat AB/assets",
+      "last_note_edit": "2025-09-19"
+    },
+    {
+      "name": "Mäklarsamfundet Service i Sverige AB",
+      "notes": "clients/Mäklarsamfundet Service i Sverige AB/notes.md",
+      "log": "clients/Mäklarsamfundet Service i Sverige AB/log",
+      "assets": "clients/Mäklarsamfundet Service i Sverige AB/assets",
+      "last_note_edit": "2025-09-19"
+    },
+    {
+      "name": "OLJIBE Aktiebolag",
+      "notes": "clients/OLJIBE Aktiebolag/notes.md",
+      "log": "clients/OLJIBE Aktiebolag/log",
+      "assets": "clients/OLJIBE Aktiebolag/assets",
+      "last_note_edit": "2025-09-19"
+    },
+    {
+      "name": "POM-Sandelius-Habitek",
+      "notes": null,
+      "log": "clients/POM-Sandelius-Habitek/log",
+      "assets": "clients/POM-Sandelius-Habitek/assets",
+      "last_note_edit": null
+    },
+    {
+      "name": "Rolling Mill Service AB",
+      "notes": "clients/Rolling Mill Service AB/notes.md",
+      "log": "clients/Rolling Mill Service AB/log",
+      "assets": "clients/Rolling Mill Service AB/assets",
+      "last_note_edit": "2025-09-19"
+    },
+    {
+      "name": "Rågsveden-Sveden Trä Aktiebolag",
+      "notes": "clients/Rågsveden-Sveden Trä Aktiebolag/notes.md",
+      "log": "clients/Rågsveden-Sveden Trä Aktiebolag/log",
+      "assets": "clients/Rågsveden-Sveden Trä Aktiebolag/assets",
+      "last_note_edit": "2025-09-19"
+    },
+    {
+      "name": "Studieförbund Vuxenskolan",
+      "notes": "clients/Studieförbund Vuxenskolan/notes.md",
+      "log": "clients/Studieförbund Vuxenskolan/log",
+      "assets": "clients/Studieförbund Vuxenskolan/assets",
+      "last_note_edit": "2025-09-19"
+    },
+    {
+      "name": "Studieförbundet Bilda Förbundskansliet",
+      "notes": "clients/Studieförbundet Bilda Förbundskansliet/notes.md",
+      "log": "clients/Studieförbundet Bilda Förbundskansliet/log",
+      "assets": "clients/Studieförbundet Bilda Förbundskansliet/assets",
+      "last_note_edit": "2025-09-19"
+    },
+    {
+      "name": "Svenska Cykelförbundet",
+      "notes": "clients/Svenska Cykelförbundet/notes.md",
+      "log": "clients/Svenska Cykelförbundet/log",
+      "assets": "clients/Svenska Cykelförbundet/assets",
+      "last_note_edit": "2025-08-18"
+    },
+    {
+      "name": "Svenska Möten",
+      "notes": "clients/Svenska Möten/notes.md",
+      "log": "clients/Svenska Möten/log",
+      "assets": "clients/Svenska Möten/assets",
+      "last_note_edit": "2025-09-19"
+    },
+    {
+      "name": "Svenska Volleybollförbundet",
+      "notes": "clients/Svenska Volleybollförbundet/notes.md",
+      "log": "clients/Svenska Volleybollförbundet/log",
+      "assets": "clients/Svenska Volleybollförbundet/assets",
+      "last_note_edit": "2025-09-19"
+    },
+    {
+      "name": "Sveriges Olympiska Kommitté",
+      "notes": null,
+      "log": "clients/Sveriges Olympiska Kommitté/log",
+      "assets": "clients/Sveriges Olympiska Kommitté/assets",
+      "last_note_edit": null
+    },
+    {
+      "name": "Swede Electronics AB",
+      "notes": "clients/Swede Electronics AB/notes.md",
+      "log": "clients/Swede Electronics AB/log",
+      "assets": "clients/Swede Electronics AB/assets",
+      "last_note_edit": "2025-09-19"
+    },
+    {
+      "name": "Viasales",
+      "notes": null,
+      "log": "clients/Viasales/log",
+      "assets": "clients/Viasales/assets",
+      "last_note_edit": null
+    },
+    {
+      "name": "Winab",
+      "notes": "clients/Winab/notes.md",
+      "log": "clients/Winab/log",
+      "assets": "clients/Winab/assets",
+      "last_note_edit": "2025-08-13"
+    }
+  ],
+  "growth": {
+    "website_pages_path": "growth/campaigns/website/pages/",
+    "website_pages": [
+      "about.md",
+      "ai-academy.md",
+      "ai-getting-started.md",
+      "ai-korkort-quiz.md",
+      "ai-korkort.md",
+      "ai-policy.md",
+      "ai-quick-reference.md",
+      "ai-templates.md",
+      "contact.md",
+      "cookie-policy.md",
+      "faq.md",
+      "hero.md",
+      "index.md",
+      "klarat-method.md",
+      "knowledge-index.md",
+      "privacy-policy.md",
+      "prompting-guide.md",
+      "satori-uppstart.md",
+      "services.md",
+      "template-builder.md",
+      "terms.md",
+      "use-cases.md"
+    ],
+    "blog_articles_path": "growth/campaigns/website/blog/articles/",
+    "blog_articles": [
+      "2025-09-19-ai-gdpr-praktisk-guide.md",
+      "2025-09-19-ai-gdpr-svenska-grazonen.md"
+    ],
+    "generated_channels": {
+      "growth/campaigns/generated/calendar": [
+        "plans"
+      ],
+      "growth/campaigns/generated/email": [],
+      "growth/campaigns/generated/linkedin": [
+        "company",
+        "joachim"
+      ],
+      "growth/campaigns/generated/research": [
+        "analytics",
+        "market"
+      ],
+      "growth/campaigns/generated/seo": []
+    },
+    "pipeline_stages": {
+      "Fas1": [
+        "AVENT-Drift-Innemiljö-AB",
+        "Brottsofferjouren",
+        "Clockwork-Bemanning-Rekrytering-AB",
+        "Erikshjälpen",
+        "FHP-Service-AB",
+        "Funkia-AB",
+        "Hansson-Ekman-AB",
+        "Hansson-Söner-Entreprenad",
+        "LW-Sverige-AB",
+        "Lemont AB",
+        "Loxodonta",
+        "Miljönären-Måleri-AB",
+        "Omeo",
+        "Professionals-Nord",
+        "Svenska Konståkningsförbundet",
+        "Svenska-Bandyförbundet",
+        "Svenska-Bordtennisförbundet",
+        "Svenska-Budo-Kampsportsförbundet",
+        "Svenska-Ishockeyförbundet",
+        "Svenska-Seglarförbundet",
+        "Unicef",
+        "VIZ-Arkitekter",
+        "Valbo-Trä-AB",
+        "Winab-Vikväggar"
+      ],
+      "Fas2": [
+        "CAN",
+        "K360-Nordic-AB",
+        "Mavab",
+        "OF-Bygg-AB",
+        "POM-Sandelius-Habitek.md",
+        "boandren"
+      ],
+      "Fas3": [
+        "Arkeologikonsult-Sverige-AB",
+        "Copyswede",
+        "Folkbildningsrådet",
+        "Indutrade-Aktiebolag",
+        "OLJIBE-Aktiebolag",
+        "RKK-Romerska-katolska-kyrkan",
+        "Svenska-Bilsportförbundet",
+        "Svenska-Cykelförbundet"
+      ],
+      "Won": [
+        "Aenigma-AB",
+        "Edvin-Larssons-Mekaniska-Aktiebolag",
+        "Jmw-Bygg-och-Fastighets-AB",
+        "Kvadrat-AB",
+        "Mäklarsamfundet-Service-i-Sverige-AB",
+        "Rolling-Mill-Service-AB",
+        "Rågsveden-Sveden-Trä-Aktiebolag",
+        "SVERIGES-OLYMPISKA",
+        "Studieförbund-Vuxenskolan",
+        "Studieförbundet-Bilda-Förbundskansliet",
+        "Svenska-Möten",
+        "Svenska-Volleybollförbundet",
+        "Swede-Electronics-AB"
+      ]
+    }
+  },
+  "templates": {
+    "client_template": "ops/templates/sales/customer/",
+    "notes_template": "ops/templates/sales/customer/notes-template.md"
+  }
+}

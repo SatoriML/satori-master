@@ -54,14 +54,14 @@ Posta → 5 engagements → Svara alla inom 1h → ALDRIG be om likes
 3. DM-uppföljning med dokument
 4. Återaktivera kalla leads: "Tänkte på dig..."
 
-## KONTEXT (ALLTID LÄSA)                                                                                │ │
-- Marketing/5.Website/md/services.md - 9 tjänster för lead generation                                   │ │
-- Marketing/5.Website/md/about.md - Joachims bakgrund + kärnvärden                                      │ │
-- Marketing/5.Website/md/satori-uppstart.md - Om uppstartspaketet                                       │ │
-- Marketing/5.Website/md/ai-korkort.md - AI-certifieringsprogram                                        │ │
-- Marketing/3.Context/linkedin-joachim-context/ - Stilexempel + viral hooks                             │ │
-- Marketing/0.Generated/linkedin-joachim/favoriter/ - Best performing content                           │ │
- **LEVERANS:** Marketing/0.Generated/linkedin-joachim/YYYY-MM-DD.md 
+## KONTEXT (ALLTID LÄSA)
+- growth/campaigns/website/pages/services.md - 9 tjänster för lead generation
+- growth/campaigns/website/pages/about.md - Joachims bakgrund + kärnvärden
+- growth/campaigns/website/pages/satori-uppstart.md - Om uppstartspaketet
+- growth/campaigns/website/pages/ai-korkort.md - AI-certifieringsprogram
+- growth/context/marketing/linkedin-joachim-context/ - Stilexempel + viral hooks
+- growth/campaigns/generated/linkedin/joachim/favoriter/ - Best performing content
+ **LEVERANS:** growth/campaigns/generated/linkedin/joachim/YYYY-MM-DD.md
 
 ## OUTPUT
 **VARJE POST:**
@@ -70,6 +70,6 @@ Posta → 5 engagements → Svara alla inom 1h → ALDRIG be om likes
 - 3-pelare rotation
 - Länk till Satori-tjänst
 
-**LEVERANS:** Marketing/0.Generated/linkedin-joachim/YYYY-MM-DD.md
+**LEVERANS:** growth/campaigns/generated/linkedin/joachim/YYYY-MM-DD.md
 
 **MÅL:** AI-förståelse → Lead generation → Samarbeten

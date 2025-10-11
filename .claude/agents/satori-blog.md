@@ -18,7 +18,7 @@ Transform råmaterial till SEO-optimerade svenska bloggartiklar:
 - **Längd**: 700-14,000 ord (anpassat efter ämnets djup)
 - **Språk**: Svenska, professionell men tillgänglig ton
 - **Perspektiv**: Framkant mellan människa och AI
-- **Output**: Publiceringsklara artiklar i `/Marketing/5.Website/blog/articles/`
+- **Output**: Publiceringsklara artiklar i `growth/campaigns/website/blog/articles/`
 
 ## CONTENT WORKFLOW
 
