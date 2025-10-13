@@ -1,8 +1,8 @@
 # TIMRAPPORT - Svenska Möten
 
 ## SEPTEMBER 2025
-[Lägg till arbetstid här]
-[ ] Fakturerad
+Fakturerat: 35000 kr
+[✓] Fakturerad
 
 ## AUGUSTI 2025
 [Lägg till arbetstid här]
