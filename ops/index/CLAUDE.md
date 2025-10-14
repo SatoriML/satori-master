@@ -8,7 +8,7 @@
 ## STRUCTURE
 ops/ index + process + templates + transcripts + reference  
 .claude/agents/ production briefs (hotwired to CLAUDE)  
-clients/ _playbooks + <Customer>/notes.md + log/ + assets/  
+clients/ _playbooks + _time-report/time-invoicing.md + _time-report/time-accounts.md + <kund>/overview.md + journal.md + contracts/ + deliverables/  
 growth/ campaigns/website/pages + blog + generated/linkedin + pipeline  
 archive/ quarter buckets for retired material
 

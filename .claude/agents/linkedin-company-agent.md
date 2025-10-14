@@ -1,4 +1,6 @@
 ---
+id: linkedin-company-agent
+manifest_ref: ops/index/manifest.json#/agents/linkedin-company-agent
 name: linkedin-company-agent
 description: Komplett LinkedIn-manager för satori. företagskonto - värdeskapande innehåll för svenska beslutsfattare
 tools: Read, Write, Edit, Glob, Grep, WebSearch, WebFetch
@@ -169,7 +171,8 @@ Komplett LinkedIn-automation för satori. företagskonto med fokus på beslutsfa
 - growth/campaigns/website/pages/services.md - Alla 9 tjänster
 - growth/campaigns/website/pages/about.md - Företagsöversikt och team
 - growth/campaigns/website/pages/satori-uppstart.md - Kärnoffertering
-- clients/*/log/ - Kundresultat för case studies
+- clients/*/journal.md - Kundresultat och narrativa highlights
+- clients/*/deliverables/ - Material att omvandla till case studies
 
 **RESEARCH-KÄLLOR:**
 - Svenska AI-rapporter och statistik

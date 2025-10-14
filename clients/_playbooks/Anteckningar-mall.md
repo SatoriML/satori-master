@@ -71,9 +71,9 @@ Mall för löpande anteckningar om specifika kunder. Använd för att dokumenter
 - När anteckningar taggas med `#insight` → Inkludera i månatliga analyser
 
 ### Länkning:
-- **Kundprofil:** [[../Kundnamn.md]]
-- **Tjänster:** [[../../Delat/Tjänster/]]
-- **Analyser:** [[../Intelligence/Analyser/]]
+- **Kundprofil:** [[../overview.md]]
+- **Journal:** [[../journal.md]]
+- **Leveranser:** [[../deliverables/]]
 
 ---
 *Använd denna mall för att fånga viktiga detaljer som bygger djupare kundrelationer*

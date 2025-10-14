@@ -3,7 +3,7 @@
 ## Project Structure & Module Organization
 - `ops/` – shared backbone: `index/` (nav docs, manifest, catalog), `process/`, `templates/`, `transcripts/`, `reference/`.
 - `.claude/agents/` – production agent briefs; link from `ops/index/CLAUDE.md`.
-- `clients/` – each account keeps `notes.md`, `log/`, and `assets/` (with `contracts/`, `time/`, `strategy/`, `service/`); `_playbooks/` stores reusable guides and templates.
+- `clients/` – varje kund har `overview.md`, `journal.md`, `contracts/`, `deliverables/`; centrala timfiler ligger i `_time-report/` (`time-invoicing.md`, `time-accounts.md`); `_playbooks/` lagrar guider.
 - `growth/` – marketing + sales execution: `campaigns/website/pages/`, `campaigns/website/blog/`, `campaigns/generated/` (channel drops), `content-assets/`, `context/`, `enablement/`, `pipeline/`, `inbox/`.
 - `archive/` – quarterly buckets for retired material to keep the active tree lean.
 
@@ -31,5 +31,5 @@
 
 ## Agent-Specific Instructions
 - Skriv nya automationbriefs i `.claude/agents/` enligt trigger/rules/process/output-mallen.
-- Lagra producerade resultat under `growth/campaigns/` eller `clients/<Name>/log/` och uppdatera `ops/index/CLAUDE.md` när agentflöden ändras.
+- Lagra producerade resultat under `growth/campaigns/` eller `clients/<kund>/journal.md` och uppdatera `ops/index/CLAUDE.md` när agentflöden ändras.
 - Synka nya resurser med `ops/index/manifest.json` vid behov av programmatisk åtkomst.

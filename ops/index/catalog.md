@@ -10,7 +10,7 @@
 | `.claude/agents/` | Production agent briefs | Automation team | After each change |
 | `ops/index/manifest.json` | Machine-readable index for clients & growth assets | Ops lead | Weekly |
 | `ops/transcripts/` | Meeting archive (`full/`, `summary/`, `inbox/`) | Account owners | Ongoing |
-| `clients/` | Account dossiers (`notes.md`, `log/`, `assets/`) | Account owners | Weekly |
+| `clients/` | Account dossiers (slug + `overview.md`, `journal.md`, `contracts/`, `deliverables/` + `_time-report/time-*.md`) | Account owners | Weekly |
 | `clients/_playbooks/Kundöversikt.md` | Snapshot of won business & values | Sales lead | Monthly |
 | `growth/campaigns/website/pages/` | Live website copy (non-blog) | Growth team | Bi-weekly |
 | `growth/campaigns/website/blog/articles/` | Long-form articles queued/published | Growth team | Bi-weekly |

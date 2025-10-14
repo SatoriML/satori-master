@@ -1,4 +1,6 @@
 ---
+id: linkedin-joachim-agent
+manifest_ref: ops/index/manifest.json#/agents/linkedin-joachim-agent
 name: linkedin-joachim-agent
 description: LinkedIn-manager för Joachim Sahlin - Sveriges pragmatiska AI-expert
 tools: Read, Write, Edit, Glob, Grep, WebSearch, WebFetch

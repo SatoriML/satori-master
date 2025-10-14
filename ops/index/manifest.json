@@ -3,171 +3,219 @@
   "clients": [
     {
       "name": "Aenigma AB",
-      "notes": "clients/Aenigma AB/notes.md",
-      "log": "clients/Aenigma AB/log",
-      "assets": "clients/Aenigma AB/assets",
-      "last_note_edit": "2025-08-06"
+      "notes": "clients/aenigma-ab/overview.md",
+      "log": "clients/aenigma-ab/journal.md",
+      "assets": "clients/aenigma-ab/deliverables",
+      "last_note_edit": "2025-08-06",
+      "contracts": "clients/aenigma-ab/contracts",
+      "time_raw": null
     },
     {
       "name": "Arkeologikonsult Sverige AB",
-      "notes": null,
-      "log": "clients/Arkeologikonsult Sverige AB/log",
-      "assets": "clients/Arkeologikonsult Sverige AB/assets",
-      "last_note_edit": null
+      "notes": "clients/arkeologikonsult-sverige-ab/overview.md",
+      "log": "clients/arkeologikonsult-sverige-ab/journal.md",
+      "assets": "clients/arkeologikonsult-sverige-ab/deliverables",
+      "last_note_edit": null,
+      "contracts": "clients/arkeologikonsult-sverige-ab/contracts",
+      "time_raw": null
     },
     {
       "name": "Berättarministeriet",
-      "notes": "clients/Berättarministeriet/notes.md",
-      "log": "clients/Berättarministeriet/log",
-      "assets": "clients/Berättarministeriet/assets",
-      "last_note_edit": "2025-09-04"
+      "notes": "clients/berattarministeriet/overview.md",
+      "log": "clients/berattarministeriet/journal.md",
+      "assets": "clients/berattarministeriet/deliverables",
+      "last_note_edit": "2025-09-04",
+      "contracts": "clients/berattarministeriet/contracts",
+      "time_raw": null
     },
     {
       "name": "Brottsofferjouren",
-      "notes": null,
-      "log": "clients/Brottsofferjouren/log",
-      "assets": "clients/Brottsofferjouren/assets",
-      "last_note_edit": null
+      "notes": "clients/brottsofferjouren/overview.md",
+      "log": "clients/brottsofferjouren/journal.md",
+      "assets": "clients/brottsofferjouren/deliverables",
+      "last_note_edit": null,
+      "contracts": "clients/brottsofferjouren/contracts",
+      "time_raw": null
     },
     {
       "name": "Edvin Larssons Mekaniska Aktiebolag",
-      "notes": "clients/Edvin Larssons Mekaniska Aktiebolag/notes.md",
-      "log": "clients/Edvin Larssons Mekaniska Aktiebolag/log",
-      "assets": "clients/Edvin Larssons Mekaniska Aktiebolag/assets",
-      "last_note_edit": "2025-09-19"
+      "notes": "clients/edvin-larssons-mekaniska-aktiebolag/overview.md",
+      "log": "clients/edvin-larssons-mekaniska-aktiebolag/journal.md",
+      "assets": "clients/edvin-larssons-mekaniska-aktiebolag/deliverables",
+      "last_note_edit": "2025-09-19",
+      "contracts": "clients/edvin-larssons-mekaniska-aktiebolag/contracts",
+      "time_raw": null
     },
     {
       "name": "FHP-Service",
-      "notes": null,
-      "log": "clients/FHP-Service/log",
-      "assets": "clients/FHP-Service/assets",
-      "last_note_edit": null
+      "notes": "clients/fhp-service/overview.md",
+      "log": "clients/fhp-service/journal.md",
+      "assets": "clients/fhp-service/deliverables",
+      "last_note_edit": null,
+      "contracts": "clients/fhp-service/contracts",
+      "time_raw": null
     },
     {
       "name": "Folkbildningsrådet",
-      "notes": null,
-      "log": "clients/Folkbildningsrådet/log",
-      "assets": "clients/Folkbildningsrådet/assets",
-      "last_note_edit": null
+      "notes": "clients/folkbildningsradet/overview.md",
+      "log": "clients/folkbildningsradet/journal.md",
+      "assets": "clients/folkbildningsradet/deliverables",
+      "last_note_edit": null,
+      "contracts": "clients/folkbildningsradet/contracts",
+      "time_raw": null
     },
     {
       "name": "Jmw Bygg och Fastighets AB",
-      "notes": "clients/Jmw Bygg och Fastighets AB/notes.md",
-      "log": "clients/Jmw Bygg och Fastighets AB/log",
-      "assets": "clients/Jmw Bygg och Fastighets AB/assets",
-      "last_note_edit": "2025-09-19"
+      "notes": "clients/jmw-bygg-och-fastighets-ab/overview.md",
+      "log": "clients/jmw-bygg-och-fastighets-ab/journal.md",
+      "assets": "clients/jmw-bygg-och-fastighets-ab/deliverables",
+      "last_note_edit": "2025-09-19",
+      "contracts": "clients/jmw-bygg-och-fastighets-ab/contracts",
+      "time_raw": null
     },
     {
       "name": "KSS",
-      "notes": "clients/KSS/notes.md",
-      "log": "clients/KSS/log",
-      "assets": "clients/KSS/assets",
-      "last_note_edit": "2025-09-04"
+      "notes": "clients/kss/overview.md",
+      "log": "clients/kss/journal.md",
+      "assets": "clients/kss/deliverables",
+      "last_note_edit": "2025-09-04",
+      "contracts": "clients/kss/contracts",
+      "time_raw": null
     },
     {
       "name": "Kvadrat AB",
-      "notes": "clients/Kvadrat AB/notes.md",
-      "log": "clients/Kvadrat AB/log",
-      "assets": "clients/Kvadrat AB/assets",
-      "last_note_edit": "2025-09-19"
+      "notes": "clients/kvadrat-ab/overview.md",
+      "log": "clients/kvadrat-ab/journal.md",
+      "assets": "clients/kvadrat-ab/deliverables",
+      "last_note_edit": "2025-09-19",
+      "contracts": "clients/kvadrat-ab/contracts",
+      "time_raw": null
     },
     {
       "name": "Mäklarsamfundet Service i Sverige AB",
-      "notes": "clients/Mäklarsamfundet Service i Sverige AB/notes.md",
-      "log": "clients/Mäklarsamfundet Service i Sverige AB/log",
-      "assets": "clients/Mäklarsamfundet Service i Sverige AB/assets",
-      "last_note_edit": "2025-09-19"
+      "notes": "clients/maklarsamfundet-service-i-sverige-ab/overview.md",
+      "log": "clients/maklarsamfundet-service-i-sverige-ab/journal.md",
+      "assets": "clients/maklarsamfundet-service-i-sverige-ab/deliverables",
+      "last_note_edit": "2025-09-19",
+      "contracts": "clients/maklarsamfundet-service-i-sverige-ab/contracts",
+      "time_raw": null
     },
     {
       "name": "OLJIBE Aktiebolag",
-      "notes": "clients/OLJIBE Aktiebolag/notes.md",
-      "log": "clients/OLJIBE Aktiebolag/log",
-      "assets": "clients/OLJIBE Aktiebolag/assets",
-      "last_note_edit": "2025-09-19"
+      "notes": "clients/oljibe-aktiebolag/overview.md",
+      "log": "clients/oljibe-aktiebolag/journal.md",
+      "assets": "clients/oljibe-aktiebolag/deliverables",
+      "last_note_edit": "2025-09-19",
+      "contracts": "clients/oljibe-aktiebolag/contracts",
+      "time_raw": null
     },
     {
       "name": "POM-Sandelius-Habitek",
-      "notes": null,
-      "log": "clients/POM-Sandelius-Habitek/log",
-      "assets": "clients/POM-Sandelius-Habitek/assets",
-      "last_note_edit": null
+      "notes": "clients/pom-sandelius-habitek/overview.md",
+      "log": "clients/pom-sandelius-habitek/journal.md",
+      "assets": "clients/pom-sandelius-habitek/deliverables",
+      "last_note_edit": null,
+      "contracts": "clients/pom-sandelius-habitek/contracts",
+      "time_raw": null
     },
     {
       "name": "Rolling Mill Service AB",
-      "notes": "clients/Rolling Mill Service AB/notes.md",
-      "log": "clients/Rolling Mill Service AB/log",
-      "assets": "clients/Rolling Mill Service AB/assets",
-      "last_note_edit": "2025-09-19"
+      "notes": "clients/rolling-mill-service-ab/overview.md",
+      "log": "clients/rolling-mill-service-ab/journal.md",
+      "assets": "clients/rolling-mill-service-ab/deliverables",
+      "last_note_edit": "2025-09-19",
+      "contracts": "clients/rolling-mill-service-ab/contracts",
+      "time_raw": null
     },
     {
       "name": "Rågsveden-Sveden Trä Aktiebolag",
-      "notes": "clients/Rågsveden-Sveden Trä Aktiebolag/notes.md",
-      "log": "clients/Rågsveden-Sveden Trä Aktiebolag/log",
-      "assets": "clients/Rågsveden-Sveden Trä Aktiebolag/assets",
-      "last_note_edit": "2025-09-19"
+      "notes": "clients/ragsveden-sveden-tra-aktiebolag/overview.md",
+      "log": "clients/ragsveden-sveden-tra-aktiebolag/journal.md",
+      "assets": "clients/ragsveden-sveden-tra-aktiebolag/deliverables",
+      "last_note_edit": "2025-09-19",
+      "contracts": "clients/ragsveden-sveden-tra-aktiebolag/contracts",
+      "time_raw": null
     },
     {
       "name": "Studieförbund Vuxenskolan",
-      "notes": "clients/Studieförbund Vuxenskolan/notes.md",
-      "log": "clients/Studieförbund Vuxenskolan/log",
-      "assets": "clients/Studieförbund Vuxenskolan/assets",
-      "last_note_edit": "2025-09-19"
+      "notes": "clients/studieforbund-vuxenskolan/overview.md",
+      "log": "clients/studieforbund-vuxenskolan/journal.md",
+      "assets": "clients/studieforbund-vuxenskolan/deliverables",
+      "last_note_edit": "2025-09-19",
+      "contracts": "clients/studieforbund-vuxenskolan/contracts",
+      "time_raw": null
     },
     {
       "name": "Studieförbundet Bilda Förbundskansliet",
-      "notes": "clients/Studieförbundet Bilda Förbundskansliet/notes.md",
-      "log": "clients/Studieförbundet Bilda Förbundskansliet/log",
-      "assets": "clients/Studieförbundet Bilda Förbundskansliet/assets",
-      "last_note_edit": "2025-09-19"
+      "notes": "clients/studieforbundet-bilda-forbundskansliet/overview.md",
+      "log": "clients/studieforbundet-bilda-forbundskansliet/journal.md",
+      "assets": "clients/studieforbundet-bilda-forbundskansliet/deliverables",
+      "last_note_edit": "2025-09-19",
+      "contracts": "clients/studieforbundet-bilda-forbundskansliet/contracts",
+      "time_raw": null
     },
     {
       "name": "Svenska Cykelförbundet",
-      "notes": "clients/Svenska Cykelförbundet/notes.md",
-      "log": "clients/Svenska Cykelförbundet/log",
-      "assets": "clients/Svenska Cykelförbundet/assets",
-      "last_note_edit": "2025-08-18"
+      "notes": "clients/svenska-cykelforbundet/overview.md",
+      "log": "clients/svenska-cykelforbundet/journal.md",
+      "assets": "clients/svenska-cykelforbundet/deliverables",
+      "last_note_edit": "2025-08-18",
+      "contracts": "clients/svenska-cykelforbundet/contracts",
+      "time_raw": null
     },
     {
       "name": "Svenska Möten",
-      "notes": "clients/Svenska Möten/notes.md",
-      "log": "clients/Svenska Möten/log",
-      "assets": "clients/Svenska Möten/assets",
-      "last_note_edit": "2025-09-19"
+      "notes": "clients/svenska-moten/overview.md",
+      "log": "clients/svenska-moten/journal.md",
+      "assets": "clients/svenska-moten/deliverables",
+      "last_note_edit": "2025-09-19",
+      "contracts": "clients/svenska-moten/contracts",
+      "time_raw": null
     },
     {
       "name": "Svenska Volleybollförbundet",
-      "notes": "clients/Svenska Volleybollförbundet/notes.md",
-      "log": "clients/Svenska Volleybollförbundet/log",
-      "assets": "clients/Svenska Volleybollförbundet/assets",
-      "last_note_edit": "2025-09-19"
+      "notes": "clients/svenska-volleybollforbundet/overview.md",
+      "log": "clients/svenska-volleybollforbundet/journal.md",
+      "assets": "clients/svenska-volleybollforbundet/deliverables",
+      "last_note_edit": "2025-09-19",
+      "contracts": "clients/svenska-volleybollforbundet/contracts",
+      "time_raw": null
     },
     {
       "name": "Sveriges Olympiska Kommitté",
-      "notes": null,
-      "log": "clients/Sveriges Olympiska Kommitté/log",
-      "assets": "clients/Sveriges Olympiska Kommitté/assets",
-      "last_note_edit": null
+      "notes": "clients/sveriges-olympiska-kommitte/overview.md",
+      "log": "clients/sveriges-olympiska-kommitte/journal.md",
+      "assets": "clients/sveriges-olympiska-kommitte/deliverables",
+      "last_note_edit": null,
+      "contracts": "clients/sveriges-olympiska-kommitte/contracts",
+      "time_raw": null
     },
     {
       "name": "Swede Electronics AB",
-      "notes": "clients/Swede Electronics AB/notes.md",
-      "log": "clients/Swede Electronics AB/log",
-      "assets": "clients/Swede Electronics AB/assets",
-      "last_note_edit": "2025-09-19"
+      "notes": "clients/swede-electronics-ab/overview.md",
+      "log": "clients/swede-electronics-ab/journal.md",
+      "assets": "clients/swede-electronics-ab/deliverables",
+      "last_note_edit": "2025-09-19",
+      "contracts": "clients/swede-electronics-ab/contracts",
+      "time_raw": null
     },
     {
       "name": "Viasales",
-      "notes": null,
-      "log": "clients/Viasales/log",
-      "assets": "clients/Viasales/assets",
-      "last_note_edit": null
+      "notes": "clients/viasales/overview.md",
+      "log": "clients/viasales/journal.md",
+      "assets": "clients/viasales/deliverables",
+      "last_note_edit": null,
+      "contracts": "clients/viasales/contracts",
+      "time_raw": null
     },
     {
       "name": "Winab",
-      "notes": "clients/Winab/notes.md",
-      "log": "clients/Winab/log",
-      "assets": "clients/Winab/assets",
-      "last_note_edit": "2025-08-13"
+      "notes": "clients/winab/overview.md",
+      "log": "clients/winab/journal.md",
+      "assets": "clients/winab/deliverables",
+      "last_note_edit": "2025-08-13",
+      "contracts": "clients/winab/contracts",
+      "time_raw": null
     }
   ],
   "growth": {
@@ -280,6 +328,400 @@
   },
   "templates": {
     "client_template": "ops/templates/sales/customer/",
-    "notes_template": "ops/templates/sales/customer/notes-template.md"
+    "notes_template": "ops/templates/sales/customer/overview-template.md"
+  },
+  "client_records": {
+    "aenigma-ab": {
+      "id": "aenigma-ab",
+      "name": "Aenigma AB",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/aenigma-ab/overview.md",
+        "log": "clients/aenigma-ab/journal.md",
+        "assets": "clients/aenigma-ab/deliverables",
+        "contracts": "clients/aenigma-ab/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "arkeologikonsult-sverige-ab": {
+      "id": "arkeologikonsult-sverige-ab",
+      "name": "Arkeologikonsult Sverige AB",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/arkeologikonsult-sverige-ab/overview.md",
+        "log": "clients/arkeologikonsult-sverige-ab/journal.md",
+        "assets": "clients/arkeologikonsult-sverige-ab/deliverables",
+        "contracts": "clients/arkeologikonsult-sverige-ab/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "berattarministeriet": {
+      "id": "berattarministeriet",
+      "name": "Berättarministeriet",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/berattarministeriet/overview.md",
+        "log": "clients/berattarministeriet/journal.md",
+        "assets": "clients/berattarministeriet/deliverables",
+        "contracts": "clients/berattarministeriet/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "brottsofferjouren": {
+      "id": "brottsofferjouren",
+      "name": "Brottsofferjouren",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/brottsofferjouren/overview.md",
+        "log": "clients/brottsofferjouren/journal.md",
+        "assets": "clients/brottsofferjouren/deliverables",
+        "contracts": "clients/brottsofferjouren/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "edvin-larssons-mekaniska-aktiebolag": {
+      "id": "edvin-larssons-mekaniska-aktiebolag",
+      "name": "Edvin Larssons Mekaniska Aktiebolag",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/edvin-larssons-mekaniska-aktiebolag/overview.md",
+        "log": "clients/edvin-larssons-mekaniska-aktiebolag/journal.md",
+        "assets": "clients/edvin-larssons-mekaniska-aktiebolag/deliverables",
+        "contracts": "clients/edvin-larssons-mekaniska-aktiebolag/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "fhp-service": {
+      "id": "fhp-service",
+      "name": "FHP-Service",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/fhp-service/overview.md",
+        "log": "clients/fhp-service/journal.md",
+        "assets": "clients/fhp-service/deliverables",
+        "contracts": "clients/fhp-service/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "folkbildningsradet": {
+      "id": "folkbildningsradet",
+      "name": "Folkbildningsrådet",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/folkbildningsradet/overview.md",
+        "log": "clients/folkbildningsradet/journal.md",
+        "assets": "clients/folkbildningsradet/deliverables",
+        "contracts": "clients/folkbildningsradet/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "jmw-bygg-och-fastighets-ab": {
+      "id": "jmw-bygg-och-fastighets-ab",
+      "name": "Jmw Bygg och Fastighets AB",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/jmw-bygg-och-fastighets-ab/overview.md",
+        "log": "clients/jmw-bygg-och-fastighets-ab/journal.md",
+        "assets": "clients/jmw-bygg-och-fastighets-ab/deliverables",
+        "contracts": "clients/jmw-bygg-och-fastighets-ab/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "kss": {
+      "id": "kss",
+      "name": "KSS",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/kss/overview.md",
+        "log": "clients/kss/journal.md",
+        "assets": "clients/kss/deliverables",
+        "contracts": "clients/kss/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "kvadrat-ab": {
+      "id": "kvadrat-ab",
+      "name": "Kvadrat AB",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/kvadrat-ab/overview.md",
+        "log": "clients/kvadrat-ab/journal.md",
+        "assets": "clients/kvadrat-ab/deliverables",
+        "contracts": "clients/kvadrat-ab/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "maklarsamfundet-service-i-sverige-ab": {
+      "id": "maklarsamfundet-service-i-sverige-ab",
+      "name": "Mäklarsamfundet Service i Sverige AB",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/maklarsamfundet-service-i-sverige-ab/overview.md",
+        "log": "clients/maklarsamfundet-service-i-sverige-ab/journal.md",
+        "assets": "clients/maklarsamfundet-service-i-sverige-ab/deliverables",
+        "contracts": "clients/maklarsamfundet-service-i-sverige-ab/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "oljibe-aktiebolag": {
+      "id": "oljibe-aktiebolag",
+      "name": "OLJIBE Aktiebolag",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/oljibe-aktiebolag/overview.md",
+        "log": "clients/oljibe-aktiebolag/journal.md",
+        "assets": "clients/oljibe-aktiebolag/deliverables",
+        "contracts": "clients/oljibe-aktiebolag/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "pom-sandelius-habitek": {
+      "id": "pom-sandelius-habitek",
+      "name": "POM-Sandelius-Habitek",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/pom-sandelius-habitek/overview.md",
+        "log": "clients/pom-sandelius-habitek/journal.md",
+        "assets": "clients/pom-sandelius-habitek/deliverables",
+        "contracts": "clients/pom-sandelius-habitek/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "rolling-mill-service-ab": {
+      "id": "rolling-mill-service-ab",
+      "name": "Rolling Mill Service AB",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/rolling-mill-service-ab/overview.md",
+        "log": "clients/rolling-mill-service-ab/journal.md",
+        "assets": "clients/rolling-mill-service-ab/deliverables",
+        "contracts": "clients/rolling-mill-service-ab/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "ragsveden-sveden-tra-aktiebolag": {
+      "id": "ragsveden-sveden-tra-aktiebolag",
+      "name": "Rågsveden-Sveden Trä Aktiebolag",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/ragsveden-sveden-tra-aktiebolag/overview.md",
+        "log": "clients/ragsveden-sveden-tra-aktiebolag/journal.md",
+        "assets": "clients/ragsveden-sveden-tra-aktiebolag/deliverables",
+        "contracts": "clients/ragsveden-sveden-tra-aktiebolag/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "studieforbund-vuxenskolan": {
+      "id": "studieforbund-vuxenskolan",
+      "name": "Studieförbund Vuxenskolan",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/studieforbund-vuxenskolan/overview.md",
+        "log": "clients/studieforbund-vuxenskolan/journal.md",
+        "assets": "clients/studieforbund-vuxenskolan/deliverables",
+        "contracts": "clients/studieforbund-vuxenskolan/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "studieforbundet-bilda-forbundskansliet": {
+      "id": "studieforbundet-bilda-forbundskansliet",
+      "name": "Studieförbundet Bilda Förbundskansliet",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/studieforbundet-bilda-forbundskansliet/overview.md",
+        "log": "clients/studieforbundet-bilda-forbundskansliet/journal.md",
+        "assets": "clients/studieforbundet-bilda-forbundskansliet/deliverables",
+        "contracts": "clients/studieforbundet-bilda-forbundskansliet/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "svenska-cykelforbundet": {
+      "id": "svenska-cykelforbundet",
+      "name": "Svenska Cykelförbundet",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/svenska-cykelforbundet/overview.md",
+        "log": "clients/svenska-cykelforbundet/journal.md",
+        "assets": "clients/svenska-cykelforbundet/deliverables",
+        "contracts": "clients/svenska-cykelforbundet/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "svenska-moten": {
+      "id": "svenska-moten",
+      "name": "Svenska Möten",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/svenska-moten/overview.md",
+        "log": "clients/svenska-moten/journal.md",
+        "assets": "clients/svenska-moten/deliverables",
+        "contracts": "clients/svenska-moten/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "svenska-volleybollforbundet": {
+      "id": "svenska-volleybollforbundet",
+      "name": "Svenska Volleybollförbundet",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/svenska-volleybollforbundet/overview.md",
+        "log": "clients/svenska-volleybollforbundet/journal.md",
+        "assets": "clients/svenska-volleybollforbundet/deliverables",
+        "contracts": "clients/svenska-volleybollforbundet/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "sveriges-olympiska-kommitte": {
+      "id": "sveriges-olympiska-kommitte",
+      "name": "Sveriges Olympiska Kommitté",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/sveriges-olympiska-kommitte/overview.md",
+        "log": "clients/sveriges-olympiska-kommitte/journal.md",
+        "assets": "clients/sveriges-olympiska-kommitte/deliverables",
+        "contracts": "clients/sveriges-olympiska-kommitte/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "swede-electronics-ab": {
+      "id": "swede-electronics-ab",
+      "name": "Swede Electronics AB",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/swede-electronics-ab/overview.md",
+        "log": "clients/swede-electronics-ab/journal.md",
+        "assets": "clients/swede-electronics-ab/deliverables",
+        "contracts": "clients/swede-electronics-ab/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "viasales": {
+      "id": "viasales",
+      "name": "Viasales",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/viasales/overview.md",
+        "log": "clients/viasales/journal.md",
+        "assets": "clients/viasales/deliverables",
+        "contracts": "clients/viasales/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    },
+    "winab": {
+      "id": "winab",
+      "name": "Winab",
+      "stage": null,
+      "owner": null,
+      "paths": {
+        "notes": "clients/winab/overview.md",
+        "log": "clients/winab/journal.md",
+        "assets": "clients/winab/deliverables",
+        "contracts": "clients/winab/contracts",
+        "time_raw": null
+      },
+      "tags": []
+    }
+  },
+  "agents": {
+    "email-automator": {
+      "id": "email-automator",
+      "name": "email-automator",
+      "path": ".claude/agents/email-automator.md",
+      "description": "Swedish email automation - minimalist business communication and customer lifecycle sequences",
+      "owner": null,
+      "scope": [],
+      "tags": []
+    },
+    "linkedin-company-agent": {
+      "id": "linkedin-company-agent",
+      "name": "linkedin-company-agent",
+      "path": ".claude/agents/linkedin-company-agent.md",
+      "description": "Komplett LinkedIn-manager för satori. företagskonto - värdeskapande innehåll för svenska beslutsfattare",
+      "owner": null,
+      "scope": [],
+      "tags": []
+    },
+    "linkedin-joachim-agent": {
+      "id": "linkedin-joachim-agent",
+      "name": "linkedin-joachim-agent",
+      "path": ".claude/agents/linkedin-joachim-agent.md",
+      "description": "LinkedIn-manager för Joachim Sahlin - Sveriges pragmatiska AI-expert",
+      "owner": null,
+      "scope": [],
+      "tags": []
+    },
+    "meeting-prep-agent": {
+      "id": "meeting-prep-agent",
+      "name": "meeting-prep-agent",
+      "path": ".claude/agents/meeting-prep-agent.md",
+      "description": "Intelligent meeting preparation för både nya och befintliga kunder. Aktiveras med \"Förbered möte med [kund]\". PROACTIVT samlar all relevant kontext.",
+      "owner": null,
+      "scope": [],
+      "tags": []
+    },
+    "sales-meeting-prep-agent": {
+      "id": "sales-meeting-prep-agent",
+      "name": "sales-meeting-prep-agent",
+      "path": ".claude/agents/sales-meeting-prep-agent.md",
+      "description": "Sales-focused meeting preparation med industry insights och tactical selling intelligence. Specialized för sales conversations med prospects och customers.",
+      "owner": null,
+      "scope": [],
+      "tags": []
+    },
+    "satori-blog": {
+      "id": "satori-blog",
+      "name": "satori-blog",
+      "path": ".claude/agents/satori-blog.md",
+      "description": "Use this agent to transform insights, studies, and transcripts into SEO-optimized Swedish blog articles. Specializes in cutting-edge perspectives between humans and technology, producing 700-14,000 word articles for Satori's website.",
+      "owner": null,
+      "scope": [],
+      "tags": []
+    }
   }
 }

@@ -87,7 +87,7 @@
 
 #### Uppföljning
 - 30-60-90 dagars check-ins
-- Dokumentera i clients/<kund>/log/
+- Dokumentera i clients/<kund>/journal.md
 - Bygg långsiktig relation för merförsäljning
 
 ## Framgångsfaktorer

@@ -1,4 +1,6 @@
 ---
+id: meeting-prep-agent
+manifest_ref: ops/index/manifest.json#/agents/meeting-prep-agent
 name: meeting-prep-agent
 description: Intelligent meeting preparation för både nya och befintliga kunder. Aktiveras med "Förbered möte med [kund]". PROACTIVT samlar all relevant kontext.
 tools: Read, Write, Edit, Glob, Grep, Bash

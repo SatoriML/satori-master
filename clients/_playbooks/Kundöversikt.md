@@ -5,34 +5,34 @@
 - **Totalt affärsvärde:** 310 700 kr
 - **Genomsnittligt affärsvärde:** 20 713 kr
 
-> Tips: jämför alltid denna översikt med `ops/index/manifest.json` för att säkerställa att notes-filer och loggar är uppdaterade.
+> Tips: jämför alltid denna översikt med `ops/index/manifest.json` för att säkerställa att overview/journal är uppdaterade.
 
 ## Tjänstfördelning
 
 ### Satori-uppstart (10 kunder - 197 800 kr)
-- [[clients/Rolling Mill Service AB/notes.md]] - 35 000 kr
-- [[clients/Aenigma AB/notes.md]] - 29 900 kr  
-- [[clients/Edvin Larssons Mekaniska Aktiebolag/notes.md]] - 29 900 kr
-- [[clients/Rågsveden-Sveden Trä Aktiebolag/notes.md]] - 23 000 kr
-- [[clients/Sveriges Olympiska Kommitté/notes.md]] - 23 000 kr
-- [[clients/Svenska Volleybollförbundet/notes.md]] - 19 500 kr
-- [[clients/Jmw Bygg och Fastighets AB/notes.md]] - 17 500 kr
-- [[clients/KSS/notes.md]] - 16 500 kr
-- [[clients/Studieförbund Vuxenskolan/notes.md]] - 15 900 kr
+- [[clients/rolling-mill-service-ab/overview.md]] - 35 000 kr
+- [[clients/aenigma-ab/overview.md]] - 29 900 kr
+- [[clients/edvin-larssons-mekaniska-aktiebolag/overview.md]] - 29 900 kr
+- [[clients/ragsveden-sveden-tra-aktiebolag/overview.md]] - 23 000 kr
+- [[clients/sveriges-olympiska-kommitte/overview.md]] - 23 000 kr
+- [[clients/svenska-volleybollforbundet/overview.md]] - 19 500 kr
+- [[clients/jmw-bygg-och-fastighets-ab/overview.md]] - 17 500 kr
+- [[clients/kss/overview.md]] - 16 500 kr
+- [[clients/studieforbund-vuxenskolan/overview.md]] - 15 900 kr
 
 ### Satori-cloud (2 kunder - 37 500 kr)
-- [[clients/Svenska Möten/notes.md]] - 35 000 kr
-- [[clients/Mäklarsamfundet Service i Sverige AB/notes.md]] - 2 500 kr
+- [[clients/svenska-moten/overview.md]] - 35 000 kr
+- [[clients/maklarsamfundet-service-i-sverige-ab/overview.md]] - 2 500 kr
 
 ### Satori-consulting (2 kunder - 13 000 kr)
-- [[clients/Swede Electronics AB/notes.md]] - 10 000 kr
-- [[clients/Berättarministeriet/notes.md]] - 3 000 kr
+- [[clients/swede-electronics-ab/overview.md]] - 10 000 kr
+- [[clients/berattarministeriet/overview.md]] - 3 000 kr
 
 ### Satori-mvp (1 kund - 35 000 kr)
-- [[clients/Kvadrat AB/notes.md]] - 35 000 kr
+- [[clients/kvadrat-ab/overview.md]] - 35 000 kr
 
 ### Satori-workshop (1 kund - 50 000 kr)
-- [[clients/Studieförbundet Bilda Förbundskansli/notes.md]] - 50 000 kr
+- [[clients/studieforbundet-bilda-forbundskansliet/overview.md]] - 50 000 kr
 
 ## Branschfördelning
 - **Industri/Tillverkning:** 4 kunder (Rolling Mill, Edvin Larsson, Rågsveden, Swede Electronics)

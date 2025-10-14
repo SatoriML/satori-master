@@ -1,4 +1,6 @@
 ---
+id: email-automator
+manifest_ref: ops/index/manifest.json#/agents/email-automator
 name: email-automator
 description: Swedish email automation - minimalist business communication and customer lifecycle sequences
 tools: Read, Write, Edit, Glob, Grep, Bash

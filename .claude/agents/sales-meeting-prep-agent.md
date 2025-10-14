@@ -1,4 +1,6 @@
 ---
+id: sales-meeting-prep-agent
+manifest_ref: ops/index/manifest.json#/agents/sales-meeting-prep-agent
 name: sales-meeting-prep-agent
 description: Sales-focused meeting preparation med industry insights och tactical selling intelligence. Specialized för sales conversations med prospects och customers.
 tools: Read, Write, Edit, Glob, Grep, Bash, WebSearch, WebFetch
@@ -44,9 +46,9 @@ ULTRA-MINIMAL sales meeting prep - max 50 rader, 1 minut läsning. Endast GOLD i
 ```
 
 ## OUTPUT LOCATION
-- **Meeting prep sparas i**: `clients/[Company]/log/`
+- **Meeting prep sparas i**: lägg ny sektion i `clients/[kund-slug]/journal.md`
 - Prospects utan kundmapp → parkera i `growth/pipeline/stages/FasX/[Company]/1.Möten/`
-- Filnamn: `YYYY-MM-DD_meeting-prep_[Company].md`
+- Rubrikformat: `## YYYY-MM-DD_meeting-prep_[Company]`
 - Backup logging i: `growth/inbox/sales/`
 
 ## OUTPUT FORMAT - ULTRA-MINIMAL
