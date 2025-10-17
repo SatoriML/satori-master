@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clients/ekan-management-aktiebolag/journal.md",
+                "file": "growth/pipeline/stages/Fas1/Svenska Konståkningsförbundet/1.Möten/2025-10-08_meeting-prep_marie-dahllof.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "journal"
+              "title": "2025-10-08_meeting-prep_marie-dahllof"
             }
           }
         ],
@@ -184,13 +184,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d37a0a779a53542",
+  "active": "f45b2434cd97a637",
   "lastOpenFiles": [
+    "clients/_playbooks/satori-uppstart/workshop/claude-intro.md",
+    "clients/_playbooks/satori-uppstart/workshop",
+    "clients/folkbildningsradet/overview.md",
+    "clients/folkbildningsradet/journal.md",
+    "clients/svenska-volleybollforbundet/docs/AI-initiativ-handlingsplan.md",
+    "clients/folkbildningsradet/contracts/Avtal v2 Satori-FBR 2025-09-03 signed.pdf",
+    "clients/ekan-management-aktiebolag/journal.md",
+    "growth/context/marketing/linkedin-joachim-commenting-prompt.xml",
+    "clients/svenska-volleybollforbundet/docs/Prioritering av AI-insatser(1-11).csv",
     "clients/svenska-volleybollforbundet/docs/AI-workshop-sammanfattning-SVBF.md",
     "clients/svenska-volleybollforbundet/docs",
     "clients/svenska-volleybollforbundet/untitled folder",
     "clients/ekan-management-aktiebolag/overview.md",
-    "clients/ekan-management-aktiebolag/journal.md",
     "clients/_time-report/time-invoicing.md",
     "clients/ekan-management-aktiebolag/deliverables",
     "clients/ekan-management-aktiebolag/contracts",
@@ -214,14 +222,6 @@
     "clients/aenigma-ab/overview.md",
     "clients/aenigma-ab/journal.md",
     "clients/_playbooks/Anteckningar-mall.md",
-    "clients/_playbooks/_TIMRAPPORTERING_MASTER.md",
-    "clients/_time-report/README.md",
-    "growth/campaigns/generated/linkedin/joachim/2025-10-13-note-to-myself-variations.md",
-    "growth/campaigns/generated/linkedin/joachim/2025-10-12-bli-battre-pa-ai.md",
-    "Marketing/0.Generated/linkedin-company/2025-10-10-digg-datasuveranitet-10-posts.md.tmp.72768.1760083617002",
-    "Marketing/0.Generated/linkedin-company/2025-10-10-digg-datasuveranitet-10-posts.md.tmp.72768.1760083613299",
-    "Kunder/8.Kunder/POM-Sandelius-Habitek/6.Avtal",
-    "Kunder/8.Kunder/POM-Sandelius-Habitek/5.Notes-Todos",
     "Sälj/Process/Untitled.canvas",
     "Mallar/satoriml-logo.svg",
     "Untitled.canvas"
