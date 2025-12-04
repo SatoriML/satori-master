@@ -28,6 +28,7 @@ archive/ quarter buckets for retired material
 - `"Meeting prep för [customer]"` - Intelligence gathering
 - `"Följ försäljningsagent"` - Sales automation
 - `"Generera veckorapport"` - Weekly report
+- `"Aktivera sales-prep-specialist"` - Slimmad mötesbrief med demo-fokus
 
 ## RULES
 - **Swedish business** - Formal "ni", SEK currency

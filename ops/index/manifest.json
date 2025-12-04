@@ -714,6 +714,15 @@
       "scope": [],
       "tags": []
     },
+    "sales-prep-specialist": {
+      "id": "sales-prep-specialist",
+      "name": "sales-prep-specialist",
+      "path": ".claude/agents/sales-prep-specialist.md",
+      "description": "Komprimerad sales prep-specialist som levererar 1-minutsmötesbriefs med demo-fokus och tydliga nästa steg.",
+      "owner": null,
+      "scope": [],
+      "tags": []
+    },
     "satori-blog": {
       "id": "satori-blog",
       "name": "satori-blog",

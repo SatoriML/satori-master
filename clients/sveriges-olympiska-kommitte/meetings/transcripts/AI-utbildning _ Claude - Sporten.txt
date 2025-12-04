@@ -1,0 +1,755 @@
+Fredrik Joulamo - 0:05
+Klang är här också. Klang och klang känner jag till. Ja.
+
+Katarina Vangdal - 0:13
+Thomas, det ser ut som du har en gloria runt huvudet.
+
+Teams Stockholm - 0:16
+Det har jag. Jag är frireligiös. Jag borde bott i Jönköpingstrakten istället.
+
+Katarina Vangdal - 0:26
+Det är inte för sent än. En tredje gammal där.
+
+Teams Stockholm - 0:29
+Ja, han är där. Det är inte samma samtalsämne. Vi ska få igång tekniken här. Ja, hur den här, ska man koppla in den på? Nej, jag har inte USB.
+
+Joachim Sahlin - 0:50
+Men mötet direkt på den här.
+
+Teams Stockholm - 0:53
+Ja, men det är bäst. Då ska jag göra typ så här.
+
+Teams Stockholm - 1:35
+Vi håller på att fixa lite med tekniken här så vi kan höra er allihopa. En sekund.
+
+Teams Stockholm - 1:55
+Vad får ni upp för sida, kollegor? Jag har fått sån här good morning, Tomas. Är det där man ska stå, eller? Hur ser det ut för er?
+
+Katarina Vangdal - 2:04
+Va? Var är du någonstans?
+
+Teams Stockholm - 2:07
+Jag klickade på den där länken som jag fick på mejlet. Då fick jag bara good morning, Tomas, kom jag in på.
+
+Thomas Engdahl - 2:16
+Jag har samma som du.
+
+Teams Stockholm - 2:17
+Vad bra, härligt.
+
+Thomas Engdahl - 2:21
+Det känns tryggt, va?
+
+Katarina Vangdal - 2:24
+Enda vänligheten möter om dagen Tomas.
+
+Katarina Vangdal - 2:33
+Det finns ingen napp. Ja, i Good morning står det på mig också.
+
+Teams Stockholm - 2:39
+Härligt. Springer och fyller på kaffe medan vi har Good morning.
+
+Teams Stockholm - 3:59
+Då får du välja svenska här då. Ja, tack!
+
+Teams Stockholm - 4:09
+Sådär. Hör ni oss?
+
+Fredrik Joulamo - 4:12
+Utmärkt.
+
+Teams Stockholm - 4:14
+Det är lysande. Hur ser det ut för er på länk? Har ni kommit in i CLAD? Har ni fått inloggningslänk från Antropic och loggat in där? Eller hur ser det ut?
+
+Fredrik Joulamo - 4:30
+Ja, jag gjorde det när den kom, och sen så skulle man börja välja vilket team man tillhörde och såna här saker. Och nu när jag har försökt gå in så står det invalid invite link.
+
+Teams Stockholm - 4:42
+Logga in på vanliga Clad.ai, för då har du redan accepterat inbjudan och ska bara logga in som vanligt.
+
+Okänd - 4:51
+Ja. Är det bara ni som är här fysiskt?
+
+Teams Stockholm - 4:55
+Ja. Och vad ska vi ta för work talk, vet ni? Det är inte så noga, så ta det som känns. Anders fanns det längst ner. Men liksom administrativ verksamhet.
+
+Fredrik Joulamo - 5:10
+Operations tar vi.
+
+Teams Stockholm - 5:13
+Jag har redan valt others.
+
+Fredrik Joulamo - 5:16
+Okej.
+
+Teams Stockholm - 5:19
+Trevligt att träffa er på. Är det här jag som.? Ser man min skärm också här? Vänta. Du kan dela skärm. Ja, det är det jag tänker göra. Men jag tror att det här blir smidigast. Och att jag delar lite sen. Vad trevligt att vara igång. Thomas, du har också kommit in i CLAN. Ja, jag står Good morning Thomas här. Det är trevligt. Bra, då är vi på banan. Jag tror att ni alla känner mig lite. Jag kanske är ute på Strawberry hotell, eller vad det var. Strawberry arena hette det. Så tanken idag är att ni ska känna att det här kan man göra i CLAD. Och känna er lite bekväma och bekanta för att kunna börja jobba med det verktyget. Men till en början så tänkte jag att vi tar en liten runda runt omkring hos er. Och det jag undrar egentligen är. Jag förstår att ni har träffat sporten här. Ni är sportchefer. Ni jobbar mot. Ni har själv spelat volleyboll. Någon av er kanske jobbar mot Volleybollförbundet lite. Ibland. Vem vet? Eller Beach Volleyboll. Vi tycker om Thomas. Det är bra.
+
+Thomas Engdahl - 6:44
+Härligt!
+
+Teams Stockholm - 6:45
+Det kan du behöva göra för jag är rätt dålig på sånt där. Så jag behöver lite kärlek. Så lite om er roll och hur ni har nyttjat AI förut. Om ni har nyttjat AI på något sätt. Det är inga krav såklart. Och om ni har några förhoppningar på idag. Så det är lite vad jag undrar. Nu kan jag inte alla namnen. Nej, precis. Mårten. Idrott, ishockey. Annars jobbar jag med våra projekt i form av träningsläger och Olympic Camp, när vi samlar hela OS-truppen. Typet på Kreta? Exakt. Och även lite tränarutvecklingsprogram, när vi samlar tränarna. Spännande. Och AI, har du jobbat? Nej, känner jag till det. C-bussen är nollad, rakt igenom. Ja, absolut. Så förhoppningar är ju att komma förbi noll. Ja, det kan vi göra. Bra. Ja, språkchefer och lite blandade idrotter. Jag kan inte säga att jag har inte bildat någon bild av alla förväntningar. Jag vet inte så mycket. Jag använder det privatligen lite i fråga och gör lite roliga bilder. Det är ungefär den nivån. Ja, absolut. Absolut. Som sportchef, bara så jag placerar mig, är det mycket kontakt ut mot förbunden?
+
+Teams Stockholm - 8:15
+Är ni ute mycket på plats med tränare, på Bos? Hur ser en dag ut? Det är väldigt mycket kontakt med aktiva och tränare. Mycket mejl, mycket möten? En hel del möten. Mycket arbete med utvecklingsplaner och utvärderingar och sånt. All right. Ja. Ja. Jag förstår. Vi börjar här på Fredrik. Du är högst upp till vänster.
+
+Fredrik Joulamo - 8:44
+Fredrik, jag är sportdirektör. Jag är chef över det här gänget. Och en av de nyaste in i alla fall kan man väl säga. Jag har inte egentligen hållit på alls mycket med AI. Det är lite som ny mark på många sätt. Lite som det är med.
+
+Fredrik Joulamo - 9:19
+Förväntningarna är väl lite att komma över det stadiet och förstå hur det här kan hjälpa mig i vardagen. För det har jag lite svårt. Vi hade precis ett möte med sportcheferna innan vi gick in i det här. där vi försökte brainstorma lite kring hur det här kanske skulle kunna hjälpa oss. Det blir väl intressant att se om de idéerna skulle kunna bli verklighet.
+
+Teams Stockholm - 9:44
+Intressant Fredrik, och jag tycker det är viktigt för dig att fortsätta hålla i den taktpinnen om brainstorming. Jag tror att utbytet mellan er är nyckeln, att man slänger ut en fråga. Har du lyckats hitta något som gör att din vardag underlättas? För ni har ju så liknande behov som möjligt under SOKs flagga. Fortsätt dela och fortsätt ta upp det och ge varandra tips och tricks. Det är min uppmuntran efter idag. Katarina, jag såg att du pratar i telefon. Är du redo?
+
+Katarina Vangdal - 10:23
+Jag är redo. Jag har en mor som är lite krasslig. Katarina Wagnahl, också ny skulle jag vilja säga. Börjar i april. Tidigare jobbat på Svenska Golfförbundet under lång tid. Sportchef. Liksom kollegorna där har segling och friidrott. Halva tiden och halva tiden med tränarprojekt. Se mig som nollad också. Jag leker med AI. Tycker det är kul att hålla på med bilderna. På den nivån. Men ser fram emot dagen att få lära mig att förstå mer.
+
+Teams Stockholm - 10:55
+Lysande. Jag tycker liksom Katarina, det här nyfikna leksinnet, ha kvar det! Jag kommer försöka sätta en mer professionell prägel idag, generellt. Men i grund och botten är nyfikenhet att se, vad kan de här AI-modellerna skapa åt mig? Det är det som är nyckeln till att lära sig, inom all teknologi.
+
+Katarina Vangdal - 11:21
+När det kom så testade vi golfen och då frågade vi bara vad är viktigast för att träffa en golfboll bra. Det var en sån fråga. Och då var den helt off. Och det var ju några år sedan i början. Idag när man ställer samma fråga så är det betydligt bättre. fler källor. Det har varit en enorm utveckling när man testar. Det är det jag menar med att leka. Sen tycker jag det är kul. Oroa dig inte för mitt leksinne. Det behöver balanseras åt andra hållet. Jag tycker det är jättestor skillnad på kvaliteten.
+
+Teams Stockholm - 11:55
+Så har du en gång.
+
+Katarina Vangdal - 11:58
+Jag vet ju en golfswing, men i områden där jag inte vet så är det lite läskigare tycker jag om jag ställer en fråga. Var det lika tokigt svar som jag fick i golfen då? Eller är det samma kvalitet? Det är det jag minns.
+
+Teams Stockholm - 12:15
+Ett intressant inslag. Jag har själv spelat lite golf så jag kollade på Youtube igår när Bryson DeChambeau hade sin Youtubekanal. Och då tog han upp Gemini som ett exempel. Han gjorde väl inte det superbra, men han sa i princip att han kunde filma sin golfsving med Gemini, som är Googles AI-assistent, och då få en analys på den. Jag tolkar det lite som att det också var reklam för Gemini. Jag vågar inte säga hur bra, men det säger ändå något om att frivändning. Superbra exempel. på något som de flesta av era idrottare och förbund håller på med, skulle jag gissa. De olympiska lyften. Det skulle man absolut kunna filma från sidan och få input på. Garanterat, från någon AI-modell. Jag ska inte säga att Claude, som vi kommer gå igenom idag, är bäst på det. Men det är garanterat något som AI kan hjälpa idrottarna med på längre sikt. Ines.
+
+Ines Lopes - 13:17
+Också som Katarina, ganska ny in sen i april. Sportchef just nu för ridsport, skytte, alla grenar och modern femkamp och simhopp mest just nu. Kommer ifrån 15 år och har varit sportchef för SPK, Sveriges Olympiska Kommitté. I den rollen, jag älskar statistik och omvärldsanalys och sådär. Och. Det tar jättemycket tid, alltså manuellt, att leta fram alla resultat  och bygga mina egna modeller. Så där ser jag ju verkligen nu när jag går in i de här nya idrotterna  att I och med att jag är i första stadiet av det här med att bygga både relationer men också förståelse för det som har hänt bakom och vart de är på väg. Så där skulle jag nog se en lite snabbare, det tar ju tid. Så skulle jag kunna få den bilden lite snabbare än det jag håller på med just nu så hade det hjälpt mig tycker jag. Och sen också för att som vi har nämnt också tidigare nu är vi ju mycket utvärderingar och uppföljningar. Det skulle kunna bli ett snabbare verktyg. Så spara lite tid annars har jag bara använt den. Också lite lek privat och framförallt det mest lyckosamma var hur vi skulle få öka trycket på en 60-tals hydrofor.
+
+Ines Lopes - 14:44
+På landet och med hjälp av AI så lyckades vi få till det. Så det var väldigt kul att få testa det. Så inte så mycket mer än det.
+
+Teams Stockholm - 14:54
+Kom ihåg det du sa här. Det är klart du kommer göra det. Men vi kommer gå igenom mycket idag. Ni kommer få testa frågor, prompter, själva. Så det här med att göra omvärldsanalys och de delarna tror jag är klockrent. Håll med det här under passet och ställ frågor som du är nyfiken på. Thomas, från din sida. Jag har varit med lite längre än en del andra. Jag började 2008. Så. Sportchef håller på med lite olika idrotter. Och jag är väl mest drabbad av Katarinas leklust när det gäller bilder och sånt där. Ibland ser jag ut som 80 ungefär som nu och ibland ser jag ut som 40. Så det är lite roligt. Mina förväntningar är väl egentligen, jag har lekt som de andra lite grann privat. Och ibland väldigt imponerad på vad man kan få fram. Och. Jag vill veta vad man kan använda till. Lite mer så. Den nivån. Lysande, hörrni. Jag tänker, jag kommer arbeta med CLAD. Jag kommer också ge er uppgifter idag. Så att ni får göra saker. Ni vet själva när ni behöver lyssna och när ni vill göra. Men jag kommer uppmuntra er att knappa lite själva.
+
+Teams Stockholm - 16:14
+Men nu ska vi se här, så jag. Delar skärm så att alla ser här. Sådär, ser ni här på andra sidan också? Ja. Bra. Jag gillar ju, det här är ju det man möts av. Vi ska gå igenom grunderna här. Vi måste bara få bort Teams. Men det jag tänkte fråga först idag. Hej, vem är du? Det handlar ju om att bygga en relation egentligen och förstå vad vem CLAD är och vad CLAD kan hjälpa er med. Så det här är en väldigt simpel fråga. Men det här är CLAD, en AI-assistent skapad av Entropic, ett bolag i USA. Jag kan hjälpa dig med många saker. Allt från att svara på frågor och analysera information, till att skriva texter, skapa dokument, programmera och annat också. Så. Jag tänker att vi ska gå in på en lite mer intressant fråga. Det jag gör här, det är att jag kommer starta nya chattar väldigt ofta. Så när jag byter ämne så ser man det här röda plusset. Här. Då startar jag en ny chatt. För mig är det som att jag rensar minnet och börjar om. Finns det andra lagrat? Ja. Vi kommer gå igenom alla knappar i detalj men de finns både här och så kan man klicka på chats och komma åt det som har varit.
+
+Teams Stockholm - 17:49
+Men den här frågan, ni får gärna hänga med. Jag kommer också göra, för att när jag sitter och utbildar så gillar jag att skriva lite snabbare, så då pratar jag med datorn. Och då har jag en knapp som jag kan diktera in. Så det kommer jag göra nu. Men ni kan ställa liknande fråga här eller hitta på en annan nisch.
+
+Ines Lopes - 18:07
+Jag har en fråga direkt. Den här är ju då från USA. Är den lika bra på svenska eller hur ska man helst kommunicera den för att få mest träffsäkra svar?
+
+Teams Stockholm - 18:22
+Yes, den är lika bra på svenska. För ett och ett halvt år sedan var det ett problem skulle jag säga. Det är inte det längre. Det är min upplevelse och jag är rätt säker på att du kommer hålla med mig Ines. Men skriv liknande det jag säger här. Tippa hur vinter-OS i Cortina kommer gå för Sverige. Gör en djup och educated guess på hur många medaljer som kommer tas. något åt det hållet. Tippa hur många medaljer Sverige kommer ta i OS i Cortina. Sen sa jag också att den ska försöka göra en djup Educated Guest. Det är bara att hoppa in med frågor om det dyker upp något.
+
+Teams Stockholm - 19:24
+Jag kommer prata lite vidare här under tiden ni skriver också. Det som händer här är att CLAV kommer göra en grundlig analys, säger CLAV, av Sveriges chanser i OS i Cortina. Låt mig börja undersöka aktuell information om svensk vintersport. Då hämtar den in källor. Projecting Swedens Olympic roster, Team Sweden från NHL. och sen kommer något från ProCross Country Skiing, det kommer något om Wikipedia. Okej, sen går CLAD vidare och säger ”Bra, bra start! Nu behöver jag få mer specifik information om Sveriges historiska resultat”. Så först inser CLAD, när jag har ställt den här frågan, vad behöver jag ta reda på? tänker CLAD då. Jag behöver göra en grundläggande analys av Sveriges chanser. Och då, vad är truppen i princip? tar CLAD fram. från de här länkarna skulle jag tro. Om man kollar på länkarna så är det det Planverket vill göra. Nästa steg blir, vad är de historiska resultaten? Det är ett jättebra ställe att börja också för att förstå hur många. För er kan det skilja sig lite hur, ni har antagligen skrivit lite annorlunda från mig, och ni kan få lite andra delar här. Det är helt okej.
+
+Teams Stockholm - 20:49
+Då läser den igenom vad Sverige historiskt lyckats med. Vad är det för styrkor inför 2026? Då försöker den hitta former. Hur har det gått i skidskytte? Hur har det gått för idrottarna som åker längdskidor? Så ser man att jag fick till och med ett helt dokument här. Valde Claude. Nu har jag samlat in mycket information. Låt mig skapa en detaljerad prognos. Det är inte säkert att Claude kommer välja att ni kanske fick textsvar direkt, eller hur? Eller? Någon utav er? Antagligen för att jag bad Gör en djup guess, så får jag lite mer nyans i det, skulle jag tro. Men ni som har fått svar redan, hur många medaljer har 15 till 20.
+
+Fredrik Joulamo - 21:43
+12 har jag fått. 12 till 18. 8 till 12 har jag fått.
+
+Teams Stockholm - 21:50
+15 till 20.
+
+Katarina Vangdal - 21:52
+16 till 18.
+
+Teams Stockholm - 21:55
+Så lite olika här och det är något som är intressant. Hur KLAD kan komma fram till olika. Jag fick att den till och med gjorde en webbsida åt mig. Det var lite för avancerat. Men jag får 15 till 20. Så du Fredrik, du har en pessimistisk CLAD på din sida. Det är något som jag tycker är intressant att belysa. Att CLAD fungerar ungefär som vår hjärna på det sättet. Om jag ställer dig en fråga på förmiddagen, så kanske svaret blir, och jag ställer samma fråga på eftermiddagen, så kan du få två olika svar. Även fast frågorna är väldigt lika. Och det är något man ska vara medveten om. Att det skiljer sig lite där. Det är också beroende på hur jag ställer frågan. Så kommer svaren skilja sig något. Yes, men jag pausar lite här. Och öppnar upp för frågor och funderingar efter första frågan här. Jag sökte på om vi skulle ta von Åker i snowboard istället och ta medalj. De tror bara att det är 80% chans att vi får en tjej, men inga killar tror vi. Ja, och var det rätt? Det är rätt. Det är rätt vem som är. Ja, ja.
+
+Teams Stockholm - 23:17
+Så det här som vi gjorde nu, det är ju egentligen. Hur hade ni sökt reda på den här informationen själva? Utan att ha assisterat? Just jag sökte på allmänunderbarnbarn vad man vet. Japp, men alltså. Det var ju som jag sa, vi ställde den här frågan igår också. Det var ju pricksäkert. Fredrik hade på personalmötet gjort en kalkyl på hur man räknar ut. Och för några träffar det ju rätt med hur man räknar ut. Ni har ju intern information. Men för mig, om jag hade velat ta reda på det, då hade jag behövt gå in på Google och försökt leta upp det. Det jag vill illustrera här är att CLAD kan bli er Googleagent. Om man kollar på vad CLAD gjorde åt mig, så gick den åtminstone igenom 10, 20, 30, 40, 50, 60, 70, 70 stycken källor för att ta reda på det här svaret. Det här tog tre minuter. Hur lång tid hade det tagit för mig som individ att gå igenom 70 källor? Rätt lång tid. Rätt lång tid. Så den första illustrationen är egentligen att Claude kan verkligen vara er Google-assistent och agent som kan kolla mycket mer information och sammanställa DT på ett sätt som är relativt hög kvalitet.
+
+Teams Stockholm - 24:46
+Såklart så är Claude, precis som oss, begränsad utav vad finns det för information på internet? Stämmer den informationen? Hur pusslar jag ihop den här informationen? Det är också därför vi får annorlunda svar, högst troligen. Att Fredrik får 10-12 innebär att den kanske har hittat källor som är något mer pessimistiska och tagit in det i din fråga.
+
+Fredrik Joulamo - 25:09
+Jag gick vidare där. Jag skulle vara lite väl pessimistisk. Jag fick ju då att, ja men vi är bra på längdskidor och skidskytte, möjligtvis alpint och curling. 8-12 blev ju uppskattningen då. Jag bad om Claudes bästa uppskattning av antalet medaljer. Då ställde jag frågan om, men vad tror du om puckelpist då? Sveriges chanser att ta medalj i puckelpist? Då svarade Claude att, det vet jag inget om men vill du att jag ska leta efter det? Gjorde Claude det och kom med en ganska detaljerad bild av läget  och då ändrade han, eller hen, Claude, uppskattningen till 10-14 medaljer. Så det var intressant att se att han utvecklas.
+
+Teams Stockholm - 25:56
+Ja men absolut. Det kommer in på min nästa punkt. Jag ser inte Claude som en senior medarbetare som jag tycker är underbar. den mänskliga intelligensen, er riktiga omvärldsuppfattning, är fortfarande mycket mer kraftfull. Så jag ser på väldigt många areor. Men jag ser Claes som en praktikant som kan göra väldigt mycket saker åt mig. Men det är fortfarande jag, som Fredrik, som förstår att jag är lite skeptisk. Det känns inte som att du har gjort din research tillräckligt djupt inom puckelpist, inom det här, inom det här. Då kan man ställa en följdfråga. Återigen, om man ser det som en praktikant som man behöver vägleda med rätt frågeställningar och rätt information, för att öka Clauds odds att ge något bra. Så det är inte något än som man bara ska lita fullt blint på och säga ”allt som Claud gör är helt korrekt”. Utan vi måste vägleda, stötta och vi måste också . verifiera och vara ansvariga för det som, om vi skulle publicera, Fredrik skulle publicera 10-14, 8-12 medaljer på SOKs hemsida efter idag.
+
+Teams Stockholm - 27:15
+Då kanske det skulle bli, någon skulle bara ”Va? Hur har du missat det här, det här, det här?”. Så det är ju inte bra. Vi måste ju ta ägandeskap själva. Yes. Och. Det här är bara den första promten. Jag vill också uppmuntra er att alltid ha CLAD nära till hands. Så ha det på mobilen. Det finns en mobilapp som är jättesmidig. Och var inloggad på datorn. Det finns en app på datorn också. Men webbläsaren är lika bra. Om inte bättre. Så det räcker med att vara på webbläsaren.
+
+Okänd - 28:00
+generellt.
+
+Teams Stockholm - 28:02
+Yes. Jag tänker att nu kommer jag starta en ny chatt. Då klickar jag på den här orangea. Så häng med mig där. Och nu tänkte jag att vi ska gå igenom varenda knapp som vi hittar här. Så nu har vi gått på den första. Att skapa en ny chatt. Återigen. Förlåt, vad var ditt namn? Mårten. Mårten, om jag börjar babbla väldigt mycket om Sveriges chanser att ta en medalj. Och sen så byter jag plötsligt ämne helt. Men du har fortfarande kvar mycket om medaljerna. Det är viktigt att rensa minnet innan vi byter dialog på ett bra sätt. Även för oss människor på ett sätt. När man går från ett möte till ett annat, att inte vara fast där. Och rensa bort det minnet, fokusera. närvaro på det vi pratar om nu. Så tänk lite samma sak. Om ni ska byta ämne med CLAD, starta en ny chatt. För CLAD kommer alltid ha kvar minnet av chatten. Och på tal om minne av chatten, så kan jag då klicka på chats. Och då ser jag alla mina chattar. Jag kan söka efter mina chattar som jag haft. Jag vet att jag gjorde en research om längdskidor för ett halvår sedan.
+
+Teams Stockholm - 29:30
+Då kan jag skriva längdskidor här så kan jag få upp allt jag haft om det som ett exempel. Du döper den själv? Ja, precis. Stämmer. Så här har vi då de två första knapparna. Vi har ”projects” som det tredje. Vi kommer gå in djupare på det här sen. Man har både sina egna projekt, men man har också teamprojekt. Alltså projekt ni kan dela på SOK och skapa gemensamt. Projekt, tänk det som att det är mappar i utforskaren. Varför har man mappar? Är det team i Teams? Ja, eller team i Teams. Varför har man mappar generellt? För att dela upp? Ja, dela upp och hålla ordning skulle jag säga. Det är typ samma sak. Att avgränsa, att arbeta med ett område på ett ställe och då kunna lyfta in filer där. Så liknande Teams, liknande mappar som ni arbetat med i många år. Den här kan man. dra in mer integrationer och det kommer vi prata om senare under hösten. Men ni behöver inte tänka på det. Artifacts kommer vi också komma in på. Jag tror inte vi har några än. Ja, lite. Men artificats är vad CLAD kallar filer.
+
+Teams Stockholm - 31:00
+Så det är inget mer konstigt än filer. Det är vad det betyder. Längst ner här. Nu får ni hänga på. Nu får ni aktivera er igen. Så klickar man längst ner. Jag har i alla fall en. Har du en frikod? Den är okej. Ni kan ha ert namn där också. Artifact. Nej, längst ner i vänstra hörnet här. Där. Jag borde ha en större muspekare. Det är lugnt. Där. Och sen så går vi in på settings.
+
+Teams Stockholm - 31:39
+Det här var varför, okej, vi ska inte komplicera så. Det ligger kvar. Ja, det låg kvar och det var därför jag fick den här SOK-kodade. Det var, det var, okej, förlåt, vi struntar i det där. Man kan välja vad man jobbar med, några av er har redan gjort det. Man kan också skriva hur vill jag att Claude ska svara. Är du på samma ställe?
+
+Teams Stockholm - 32:17
+Så det man kan göra här är att man kan berätta saker om er. Vem är ni? Och vad önskar ni få för typer av svar? Vad är er roll? För då är det som att Claude alltid kommer känna igen det. Men man måste inte göra så mycket. Men till exempel en kan vara bra. Om man vill lära. svara, bara, på svenska. Det kan vara till exempel en instruktion som man vill ha att CLAD alltid ska göra i alla chattar. Så det är att vi säger åt CLAD att jag vill bara svara på svenska. Och vi sparar den. Jag måste bara fråga, den hade gjort en kod där för att kunna göra? Det är Anders som har varit inne och pillat förut. Men har den skapat koden? Nej, jo det tror jag. Så han har lagt in så här i våra typsnitt eller sådär? Precis, ja. Men det ska man inte fylla i där egentligen, generellt. Utan det kanske man gör i ett projekt som Anton och jag kommer sätta upp. Så att man kan få upp. Innan vi fick kontot så testade Anders och jag lite grejer. Jag tittade hur det såg ut, Anders testade. Det är bra, vi städar bort det. Jag har på dark mode, men man kan också ha ljust och man kan bestämma det här.
+
+Teams Stockholm - 33:44
+Så ta er preferens bara. Och nu ska vi se, gör vi det där nu? Nej, det gör vi inte. Jo, det kan vara bra. Klicka på ”Capabilities”. Ni kanske har på svenska. Försök matcha det jag har här. Jag kommer slå på ”Memory” också. Memory betyder att. Ja men du Mårten, du kommer beskriva i dina chattar vilka sporter du jobbar med på SOK. Och då kommer CLAD lägga med det i ett minne. Så den kommer börja lära känna dig mer ju mer du använder CLAD. Det är vad memory är. Men vi behöver inte bry oss om det här så mycket. Men de fyra ska vara iklickade. Och sen, hur ser det ut här nere för er? Vilken har ni iklickad? Analysis eller Code? Analysis. Analysis. Hit till Code Execution and File Creation.
+
+Okänd - 35:02
+Bra.
+
+Teams Stockholm - 35:04
+Det här var något de släppte igår, så det här vågar jag inte säga så mycket om. Men egentligen, kort, så kommer man kunna ladda upp vissa typer av skills. Till exempel skapa en pdf som ser ut som i SOK-stil. Skulle kunna vara en skill. Men jag vill inte säga så mycket om det eftersom jag inte utforskar det själv. Men då har vi gått igenom alla knappar här. Så jag kommer klicka på ”New chat”. Orange igen. Det var en i savern nu, så är det bara autosave? Ja, absolut. Stämmer. Nu ska vi gå igenom alla knappar i den här chattrutan. Så jag börjar med plusset. Här, simpelt. Upload the five. En av de viktigaste delarna. Att kunna ge GLAD mer information. Det gör vi genom att ladda upp filer. Man kan ladda upp de flesta typer av filer. PDF, PowerPoint, Excel, textfiler. Jag vet inte vad mer man ska ladda upp. Men det är väl de vanliga. Vi ska inte göra det nu. Man kan ta ett screenshot. Här kan jag välja vilken bild, vilken skärm. Det kan ju vara bra, för att ni kommer ställa mycket frågor relaterat till vad som finns på er dator, Deklad.
+
+Teams Stockholm - 36:32
+Är det ett felmeddelande någonstans som dyker upp i datorn? Då kan det vara bra att få in det i Klad och fråga hur fixar jag det här felmeddelandet. Eller. Det kan vara vad som helst. Det kan vara en bild på en hemsida från något annat förbund. Eller ett e-postmeddelande som man tar in. Kan du svara på det här e-postmeddelandet? Så det är jättesmidigt att ta en skärmbild. För CLAV kan läsa skärmbilder. Ni ser, jag har ett anteckningsdokument här. Min kollega ska också köra utbildningen om CLAV. Så igår tog jag bilder på alla de här fyra sidorna. Jag är inte den bästa på att skriva, eller hur? Det är inte den bästa stilen. Mycket bättre än mig. Men mer än till toppen. Men, Claude lyckades träffa 90% av det här när jag tog fyra bilder. Och då sa jag till Claude, kan du renskriva det här? Jag ville ha det i digitalt format, så jag kunde skicka det till min kollega. En rätt smart funktion. Och rätt smidigt att få in det som man har skrivit. Så, där har vi då första. Vi har också andra projekt, men vi går in på projektet i slutet.
+
+Teams Stockholm - 37:39
+Nu är han sugen på att ta bilder. Jag har inte en chans att läsa de här. Testa! Men du behöver ladda ner på mobilen. Det är det smidigaste. Jag måste ha ett översättningsprogram. Nu går vi vidare till Search &ampl. Något jag vill nämna här är Use Style. och man kan få CLAD att skriva på olika sätt. Till exempel om ni vill lära er inom något område så kan man ju välja learning. Du Ines till exempel. Du sa att du ville förstå nya sporter och historia om dem. Eller hur? Då skulle man kunna välja learning här för då kommer CLAD försöka vara en lärare på ett mer sätt. Om man vill ha kortfattade svar, om man vill ha Explanatory, eller man kanske vill ha formella svar. Formella svar skulle jag säga, mot andra internationella förbund, låter det toppen att använda formellt. Till exempel tråkiga fyrkantiga svar. Man kan också skapa egna stilar, men det kommer vi inte gå in på. Den här tycker jag är rätt intressant att känna till. Den heter ”extended thinking”. Nu ska vi alla ställa en fråga. När vi har slagit på ”extended thinking”, och den kan man också slå på på den här knappen här bredvid, som ni ser blir blå för mig.
+
+Teams Stockholm - 39:30
+Där kan man också slå på den. Eller här inne. Och jag kommer. Man ska försöka ge en lite klurigare fråga här. Så häng på och hitta på något som är lite klurigare. För thinking, det betyder ju att tänka. Är det klurigt att det är en tricksfråga? Alltså en faktafråga? Ja, så jag kommer. Jag kommer ställa den här frågan. Kan du ta reda på hur Sveriges medaljer sedan 1994 har sett ut i OS? Ta med både vinter-OS och sommar-OS och ge mig exakta siffror. Så det här är en lite lurigare fråga. Men ni får använda er kreativitet också. Det kan vara vilken fråga som helst, men inte hur många som bor i Sverige. Det behöver KLAD inte tänka något för, utan det är bara att hämta information och ge information. Som sagt, om ni hellre vill hänga på, så gör det.
+
+Teams Stockholm - 40:52
+Och det som händer då när man har slagit på ”extended thinking” är att Claude kommer lägga till flera steg i sitt resonerande innan Claude presenterar svaret för er. Och det gör. .ja, ni förstår ju själva vad det kan göra. Jag var alltid snabbast på alla prov, alltid i skolan. Jag gick alltid ut först. till, ja, fifty-fifty hur det gick. Om jag hade tänkt lite mer så kanske jag hade haft större odds för att få mer rätt på svaren. Om jag hade försökt bryta ner problemen i flera steg. Så det är det man vill. Nu ser man att Claes har tänkt i fyra olika steg för att kunna svara på det här. Och då får jag. Det här resultatet då. Totalt 18 medaljer i Peking. Kan det stämma? Jag gissar på att ni tar minne som 11 medaljer i Frankrike. Kan det stämma? Så det här kanske inte är den lurigaste frågan. Men det kan ju vara, man kan ju ställa alla möjliga intressanta, luriga frågor. Sveriges utveckling eller statistik från Statistiska centralbyrån. Man vill veta sånt. Ha en analys. Mer avancerade frågor. Men jag vill gärna lämna över ordet till någon som har testat något här.
+
+Teams Stockholm - 42:36
+Var det Mikael? Ja, Katarina, hoppa in.
+
+Katarina Vangdal - 42:41
+Jag gjorde det här. Jag ställde, tyckte jag, en klurig fråga i alla fall. Nu tog jag min gamla idrott. Hur stor är sannolikheten att man lyckas som proffs på hög nivå  om man har haft en hög ranking som amatör? Det är en sån här fråga. Det svaret var i golf. Den kan du inte bara hämta fakta nånstans.
+
+Teams Stockholm - 43:06
+Carina, vill du dela skärm?
+
+Katarina Vangdal - 43:09
+Åh, herregud. Ja, kan tro. Det är bara intressant. Hur gör jag det då? Här inne? Nu ska vi se. Då måste jag gå in där bara. Jag vet inte hur ni andra jobbar, men jag gör så här. Så. Så ska jag gå in.
+
+Teams Stockholm - 43:28
+Jättebra.
+
+Katarina Vangdal - 43:30
+Fick ni den nu eller? Jag ser inte er nu nämligen. Fick ni den eller?
+
+Teams Stockholm - 43:41
+Ja, vi ser.
+
+Katarina Vangdal - 43:46
+Eftersom jag kan igen, det här området kan jag ju relativt bra. Så då är det lätt för mig att göra en faktacheck utifrån.
+
+Teams Stockholm - 43:55
+Pausa där Katarina. Ha med dig det Katarina säger resten av dagen. Ställ frågor på områden som ni kan. För då kommer ni kunna bli kvalitetssäkra. För det handlar  som jag började med. Det handlar om att ni ska bygga en relation och tilltro till CLAD. Det gör vi bäst genom att ställa frågor först som ni vet att det här är bra. Men Katarina, fortsätt.
+
+Katarina Vangdal - 44:21
+Då analyserar jag det här svaret. Rubrikerna, jättebra. Övergången är mycket krävande. Så den har fångat upp det. Leva på golfen där som står. Kanske 20 000 kr högre än man kan försörja sig på golf genom mindre tourer, undervisning eller sponsring. Den är intressant. Det är inte något som är realitet idag egentligen. Som amatör tidigare fick man inte ta emot pengar eller betalning. Men det har ju öppnat upp de senaste två åren. Så till viss del korrekt. Spelar på stora europeiska tourer, 5-10% av topparna når denna nivå. Den är låg den siffran. Men återigen, det är liksom. Det är en komplicerad fråga. Det är en relativt otydlig fråga som jag ställt. Det var det jag ville här. PGA toppnivå endast 1-2% når riktigt långt. Den är korrekt. Helt korrekt. Och sen kommer den här listan viktiga faktorer. Jättebra. Det är sånt som vi har sänt inom Golfen. Det här svaret skulle ändå vara användbart. Det är nån siffra som är lite lågt räknad. Men det kan man ta till sig som nån form av indikation.
+
+Teams Stockholm - 45:50
+Du kan arbeta vidare med frågeställningen. och ställa följdfrågor och be Claude utveckla om det här 20 till 30 % amatörer och peka Claude i rätt riktning vidare. Jag vet inte om vi ska göra det, men det är något som du hade kunnat göra. Jag tar över skärmen igen. Var det någon annan som hade något intressant som ni kan dela? Bara lite muntligt också går bra. Jag har sökt vad som kommer hända med vinter-OS om global uppvärmning fortsätter, och det inte blir någon snö söder om polcirkeln. Ja, det där var ju intressant. Samtliga städer utom Sapporo som har haft OS någonsin kommer bli olämpliga att hålla vinter-OS på 2080-talet. Dyster projektion. Ja, och den frågan, eftersom jag tror, där är ju något som forskningen. Det där är ju en väldigt oklar guestimat egentligen. IOK har ju beställt massa undersökningar som de tar fram. Och så tar de upp vad det är som påverkas och varför. Och vad man har gjort för åtgärder för att försöka. Ja, men den var intressant ändå. Paralympisk är mest utsatt eftersom den körs i mars dessutom.
+
+Teams Stockholm - 47:14
+Yes, och från er andra, något att dela?
+
+Ines Lopes - 47:18
+Jag ställde frågan. Ge tips på hur svenska dressyrlandslaget ska spetsa sin träning för att få större potential att vinna medalj i OS i LA 2028. Jag fick ju ganska intressant både strategiska förbättringsområden som kanske är mera långsiktigt. Men det står ju också till exempel att Sverige red med hästar som var 17-18 år under Paris. De kom i sjua och de jämför liksom lite med Tyskland och som vann. Och så kommer de ju nya tekniska liksom också det som vi. har börjat jobba ganska mycket med med med analys av poängsystemen och vad egentligen som ger mest poäng  och vilka delar där Sverige kan hämta. Den svarar ändå ganska mycket på  prioritera, perfektionera övergångar mellan rörelserna  fokusera på dubbla koefficienter med piafé, passage och skritt. Det var ändå rätt så intressant.
+
+Teams Stockholm - 48:15
+Snyggt. Vi ska gå vidare till nästa funktion. Tack för att ni delade! Det finns något som heter Research här. Så den ska vi slå igång.
+
+Teams Stockholm - 48:35
+Research. Nu är det någon som har kul här borta, det är bra. Jag försökte översätta min text som jag hade skrivit.
+
+Okänd - 48:44
+Det gick inte så bra.
+
+Teams Stockholm - 48:47
+Det är något annat språk. Jag skriver för slarvigt. Kiroglyfer. Det research är då. Nu gjorde vi thinking. Då får man klart att tänka i några fler steg. Men det research är, det är att man ger CLAD ett uppdrag att bli en forskare i princip. Och tänka i ännu mer steg. Så en research tar 10-15 minuter att få tillbaka. Så nu ska vi alla starta igång en research som vi kommer återknyta. Lite senare. Vi kan ha båda påkopplade. Både extended thinking och research. Ja, det är helt okej. Vi spelar ingen. Ja, ha extended på. Generellt ta extendertid på, för då får ni mer intelligens. Det är så enkelt. Faktum är att det tar lite längre tid. Om du har på dig tar det lite längre tid att få svar än om vi pratar kanske en halv minut extra ibland. Eller extender alltså, research. Vad sa du? Vad är det extender? En halv minut extra. Ja precis, och research tar 10 minuter. Något sånt. Men jag kommer göra en, nu blir det samma som igår, vad tråkigt för mig, jag får inte reda på något mer. Jag har kommit fram till att bara gymma stora övningar som knäböj, bänkpress, marklyft, chins är det jag vill göra. Jag vill bara köra en övning i veckan.
+
+Teams Stockholm - 50:19
+Kan du ta fram forskning på det här och se om det är hållbart för mig? Jag är motionär och jag kom igång att träna i våras. Jag har inte tränat sedan i våras och jag har haft ett uppehåll. Så hur borde jag starta igång? Jag har tänkt att 8 x 8 är bra till att börja med. Stackars mig. 8 x 8, lite tungt. Hitta på någon fråga som har lite mer nyans och djup och där man kanske behöver forskning. Här har jag då min fråga. Men knappa in en fråga, gärna allihopa, så ni får en känsla för det här. Och ni måste inte göra en lika nyanserad fråga som mig heller. Utan det kan vara med research iklickad, ja.
+
+Teams Stockholm - 51:18
+Det kan ju vara styrketräning eller träning inom en utav era idrotter och den nyaste forskningen från 2023 till 2025. Det kanske är ett intressant område för er.
+
+Ines Lopes - 51:36
+Fråga, vad är det för knapp för att kunna snacka med den?
+
+Teams Stockholm - 51:41
+Där har jag ett eget program på datorn som heter Whisper. Det är lite fusk ifrån mig. Det du kan göra. Men det kan vara alltså jag jag tycker att det är något som är väldigt kraftfullt att ha. Det kan ju vara något som man pratar om längs med hösten. Det man kan göra är att på mobilen så kan man prata in på engelska. Choklad. Så det är väl det bästa. Men du ser hur mycket text och kontext jag får in väldigt snabbt. Man pratar fyra till fem gånger snabbare än man skriver. Dessutom, jag som har börjat jobba väldigt mycket så, inser att min hjärna funkar helt annorlunda. När jag antingen får prata eller när jag måste knappa mig framför ett tangentbord. Jag hackar i mina tankar nästan. Det är jag och mig.
+
+Ines Lopes - 52:34
+När vi var på Limnå så satt vi med Rolex och Daniel. Och då Rolex son skulle precis dra ihop med några kompisar. De ville ju göra en Ironman. Och då satte han ju på den här talfunktionen. När vi satt och diskuterade han satt ju lite så här. ramar kring det. Vi diskuterade lite träning och vilka grejer man skulle behöva fokusera på eller akta sig. Och sen efter det. Det var ju så otroligt bra verktyg. Man kan bara prata och diskutera istället för att behöva skriva allting.
+
+Teams Stockholm - 53:16
+Jag älskar perspektivet och tycker att det här är något som är den största revolutionen med AI nästan. Alltså att bara kunna. Jag har Man kan spela in en ljudfil till exempel. Nu har jag både Whisper som jag kan trycka på en knapp, och sen har jag Klang som ni ser i mötet. I Klang kan jag ladda upp ljudfiler och sen får jag ut texten från det man har pratat om. Det du är inne på. Ett exempel för mig. Jag la ut min mobil på bordet och min sambo vill börja hålla på med yoga som mer av sitt jobb. Då pratade vi om lite allt möjligt där, under en halvtimme. Det var som att jag intervjuade henne. Och sen fick ju hon den här datan, hela transcriptet, som hon kunde ladda in i CLAV och då prata om det här och få idéer. CLAV förstod vad hon menade och var på rätt spår. Så det är jättekraftfullt det där. Så utforskade jag det, antingen genom att prata på mobilen eller att knacka på hos Anders någon gång och säga att det här verktyget hade varit trevligt för mig. Men jag skickar iväg min här och det får ni också göra nu.
+
+Teams Stockholm - 54:30
+Om ni inte redan gjort det. Beroende på hur bra man ställer sin fråga så kommer man få följdfrågor. Så vi får se, bra eller dåligt, hur tydlig man är. För när man gör en research så Ja men precis. Jag förstår att du vill komma igång igen efter uppehållet. För att ge dig bästa möjliga forskningsbaserade råd behöver jag klargöra några saker. Träningsfrekvens, Ironman-målet. Nu la jag till det bara för det, Ines. 8 x 8, schemat. Ja. Nej. en gång per stor övning i veckan. Man behöver inte göra som jag, att jag skriver 1, 2, 3. Men jag gör det bara för att det är tydligt. Kan gymma 3-4 gånger. Oj. Hur tänker du kombinera? Ja, jag vet inte. Har du förslag?
+
+Teams Stockholm - 55:38
+Tävling juni nästa juni 2026 säger du bara. Jag har ju tänkt att jag ska göra en IRM-omgång, men cykling är så tråkigt. Och sen JA skriver jag här. Så, och sen så har jag svarat på de här frågorna och sen så kommer vi dra iväg det då.
+
+Teams Stockholm - 56:18
+Det tog väldigt lång tid innan de hade Research Murder på. 10-15 minuter. Så vi ska egentligen släppa den här nu. När alla är klara så ska vi gå vidare. Jaha. Jobbar den vidare i bakgrunden? Absolut. Jag ska visa hur ni kan göra så att det blir tydligt och lätt. Men börjar alla bli klara med sina följdfrågor också? Det ser bra ut på den sidan. Jag vet att Anders knappar på. Det är helt okej. Ingen stress. Jag kommer kolla lite här på sidan ”Creating my research plan”. Så det var klart att börja med för mig. Men som sagt, 10-15 minuter, så det här är inget man väntar på. Om man har det på mobilen så får man en notifikation när den är klar med sin research. Sen kan man återknyta till den. Det här är något jag brukar bara spinna igång för att få mycket information om området. Men vi kollar här, bara för att förstå när vi ändå är här. ”Let me analyse this request thirdly”. Den går över till engelska rätt ofta, på sin egen sida. ”Usual needs research-based information to help Swedish fitness enthusiasts planning their training”.
+
+Teams Stockholm - 57:35
+Sen har den summerat lite här, vad den ska researcha. Den har också tagit upp de huvudsakliga research. questions som jag vill ha. Den vill till och med ta fram vilken, är det när jag ska göra här. Och sen så börjar den gå igenom källor här. Jag gillar att den tar allt som oftast mest från PubMed. Alltså reell forskning tar den ifrån. Men det här att du får det här på sidan, att den visar vad den gör för någonting. Det får inte jag. Om du ser här, såhär ser det ut för mig. Och sen så kan man klicka där. Vad händer då? Då kommer någonting på sidan.
+
+Ines Lopes - 58:27
+Vilken du går på, för det såg inte vi. Vad var det du klickade på?
+
+Teams Stockholm - 58:30
+Den här. För mig står det Swedish Scene Research. Yes, men nu har alla satt igång och den är och tuggar. Nu tänker jag att vi ska öppna en ny flik. Så vi låter den här jobba i bakgrunden. Man ska kunna stänga ner den men för Marja igår så avbröts den. Så det kan hända. Så för att vara säker så ska vi klicka på plusset. Men det man gör på Windows är att man håller inne kontroll. Och sen så klickar man på plusset. För då kommer man få upp en ny flik med en ny chatt. Så att inte trycka på pluset där? Nej, för då kommer ni. Ja, för nu ser ni, jag har två flikar här. Ja, alltså kontroll och trycka på pluset där på? Ja, om man håller i kontroll så öppnar man en ny flik på det man klickar på. Det tycker inte jag.
+
+Thomas Engdahl - 59:30
+Control-k står det här.
+
+Teams Stockholm - 59:32
+När man ställer sig på den så står det ctrl-k. Okej. Jag fick en ny flik. Ja. Det man kan göra är att man kan högerklicka på den. Och sen så open link in new tab, står det hos mig. Det borde stå något liknande för er. Ctrl-k så fick man en ny. Ja. Nu har jag båda de här här uppe.
+
+Katarina Vangdal - 59:57
+Nu öppnade det sig helt nytt. Ja, högerklicka så får du också en ny.
+
+Teams Stockholm - 1:00:00
+Precis. Ja. Men har alla en ny chatt igen? Ja. Bra. Det var det. Det vi ska. Jag nämner den här. Ni behöver inte fokusera på det så mycket. Men websearch. Nu har vi det påslaget och då kan Claude söka på webben. Man kan stänga av det. Och det kan ju vara om ni laddar upp väldigt mycket dokument och inte vill att Claude ska hämta från hemsidor. Då kan man stänga av. Förlåt, websearch. Tänk inte så. Ta det här på generellt. Vi är väldigt nischade. Men jag vill nämna knappen. Bra. Nu ska vi gå över till. Ja, självklart! Får jag bara fråga, jag kommer tillbaka till den här Search Style som du hade. Hur stor skillnad är det? Normal learning, exploanatory, formal? Hur stor skillnad är det? Behöver man hålla på och flippa med det här? Nej, jag gör typ aldrig det generellt. Men det är ändå en del skillnad. Det är det. Skriv en berättelse om Sveriges Olympiska Kommitté. Jag stavar som en kratta, men det är okej. Nu kommer jag ta upp en till flik här, och sen kommer jag ställa den här frågan med olika stilar, så vi ser lite.
+
+Teams Stockholm - 1:01:33
+Jag kommer dels ha normal här på den första. På den andra kommer jag välja, för det här är en berättelse, så här kanske jag vill ha ”Explanatory”, något åt det hållet. Att den mer ska berätta lite om er. Och så skickar jag iväg den, så ska vi bara jämföra svaren här. så att du får lite mer en känsla för vad det kan innebära att alla ni får en känsla. Okej, en berättelse om drömmar och medaljer. Det blir ju lite såhär cheesy eller vad man ska kalla det när man skriver att man ska göra en berättelse. När solen gick upp över Stockholm föddes en organisation. Det här är det normala? Ja, det här är det normala. Och det är så här långt och När solen gick upp, det var en tid av optimist och framtidstro. Genom åren har SSK vuxit. Bakom var det svensk medalj, från Gunne Svan till Sarah Sjöström. Organisationen ser sig själv som mer än bara en administrativ enhet. Och så fortsätter berättelsen år efter år. Väktare, helt enkelt. Ja. Och den här berättelsen kanske var lite dålig att ställa frågan. Men här borde den då vara mer förklarande än att bara skriva en berättelse antagligen.
+
+Teams Stockholm - 1:03:01
+Här, Pierre de Coubertin hade återupplivat. Kommittén föddes ur en insikt om att Sverige hade en organiserad struktur. En av de mest minnesvärda kapitlen. Genom decennierna har SOKs roll vuxit. Så jag får dels ett lite längre svar, men också lite mer förklarande, skulle jag ändå säga. Men du ser att det är nyanser. Eller hur? Så det är nyanser du kan förändra. Så beroende på vad för något du vill göra, så kan det vara bra att byta stil och för att ändra nyans. Nu kommer jag starta en ny chatt här igen och sen tar jag bort den. Här finns det några snabbprompter. Om ni bara vill vara nyfikna någon dag så kan man välja någon av de här. Jag kommer välja. Jag har inga sådana. Du har inte det? Nej, inte jag heller. Okej, strunt samma. Det är nog bara på. Det är lite konstigt i och för sig. Jag är inloggad på er miljö. Då struntar vi i dem. Punkt slut. Det vi ska gå igenom nu, ett nytt avsnitt, det är att lära sig att fronta bra. Ställa frågor. Vad är promta? Precis, ställa frågor. Då kommer ju frågan tillbaka till dig. Hur ställer man bra frågor?
+
+Teams Stockholm - 1:04:41
+Inte ett klad. Jag pratar om hur du ställer en bra fråga till din kollega. Jag har aldrig tänkt på hur jag ställer frågorna. Jag ställer bara frågorna. Men om du skulle ge ut en. Vilka sporter hade du? Det var ishockey. Låt säga att du blir sjuk en vecka och sen så ska du lämna över en uppgift till Anders. Hur? Du lämnar den uppgiften att han ska göra något där. Då är det ju viktigt för dig att utveckla det tydligt, så att han kan utföra uppdraget. Och också att du tänker på vad behöver Anders för det här? Du har säkert massa dokument som Anders behöver för att kunna ta, låt säga ett möte med förbundskaptenen inför OS, för att planera lite. Jag hittar på. Men då kommer du behöva ge informationen till Anders. Vad är de sista mötena? Vad har ni pratat om? Vad behöver man tänka på inför det? Du behöver ge instruktioner på ett bra sätt. Det kanske inte är en fråga i sig, men instruktioner. Och att det blir tydligt. Att du tänker på vad för information du behöver för att lösa den här uppgiften.
+
+Teams Stockholm - 1:06:11
+Men i grund och botten, så som jag tycker att ni ska ta med er, så är det att. Jag kommer att göra ett exempel här. Det skulle vara bra om ni hänger på, men vänta lite. Jag kommer att prata in här igen. Jag ska ut till SOK, Sveriges Olympiska Kommitté, och där ska jag hålla en workshop i hur de ska komma igång med CLAD och arbeta bra med. Aja, assistenten. Det ska vara två timmar. Jag vill ha en tydlig grund som jag kan arbeta utifrån. Ställ gärna tre följdfrågor så vi ser likadant på det här. Hur vi gör det här. Notera det jag säger i slutet. Jätteviktigt. Och det viktigaste. Ställ följdfrågor till mig. Om du vill att något ska bli tydligare. För vad händer då? Nu kommer jag starta en ny chatt igen och testa att inte ha med det som jag sa var det viktigaste.
+
+Teams Stockholm - 1:07:29
+Så här kommer jag att få tre följdfrågor som jag kommer att besvara. De har inte arbetat så mycket med AI-assistenter utan en rätt ny nivå där. De är sportchefer på Sveriges Olympiska Kommitté och har hand om idrotterna och förbunden. Huvudsyftet är att de. ska lära sig grunderna, de ska lära sig vad alla knappar är och de ska känna sig bekväma med att börja använda verktyget. Balansen mellan teori och praktik är att de kommer få öva mycket men jag kommer också visa. Så det ska vara både och. Men de måste vara igång i hjärnan och få arbeta för det är så jag tror att de lär sig.
+
+Okänd - 1:08:16
+Okej.
+
+Teams Stockholm - 1:08:17
+Vad långa meningar man kan prata in. Man kan prata rätt snabbt. Ja, och långt. Det är därför det är så kraftfullt att prata till AIM. För att om jag hade valt kvinnorna. Då ska vi ju lära oss hur man gör det på datorerna. Men om man inte har den funktionen, kan man då ställa en följdfråga på det? Att du har skrivit ett och så ”Åh, jag vill ju ha det här”. Ska man lägga på den direkt och fylla ut sin första fråga? Ja. Precis. Så kan det vara på samma sätt igen. Jag vet inte varför det här hände, för det sa jag inte. Min diktering tycker att kvinnorna har inte arbetat.
+
+Katarina Vangdal - 1:08:58
+Sa jag det?
+
+Teams Stockholm - 1:09:00
+Nej, sa du det? Nej, nej, nej. Sportcheferna. Men okej. Så, nu ska vi. Åh, den här. Nu vet jag inte varför den vill skapa efter mig. Det var inte riktigt tanken. Nu märker ni här att jag har fått tre följdfrågor som gör att jag kan beskriva mycket tydligare så att jag och Claude har en gemensam bild av. hur det här workshopupplägget ska vara, eller hur? Så oddsen för att det här kommer bli bra är mycket högre än om jag bara säger till CLAD ”skapa det här”. Nu ska jag se om jag. Här fick jag till och med ett word-dokument skapad åt mig om det här. Men låt oss kika på det. hur den har löst strukturen där och liksom. Okej, välkomna till introduktionen, dagens agenda, introduktion och genomgång. Vi går in här. Vad är CLAD? Huvudfunktioner, tillgängliga gränssnitt. Ja, det är ju bra i alla fall. Textanalys, skriva, redigera, översättning, dataanalys, kodning, automation, dokumentskapande, webbsökning. Lite utav det vi har gått igenom. Grundläggande funktioner. Okej, vi kikar lite. Vi kikar lite hur det här blev istället, som jag tror kan vara bättre.
+
+Teams Stockholm - 1:11:00
+Komma igång med klart för SOKs sportchefer. Välkommen och snabbstart. Alla skriver sin första plan. Sammanfatta de tre viktigaste sakerna jag behöver tänka på. Okej, så här är lite mer praktiskt. Jag instruerade ju att vi skulle jobba lite mer praktiskt. Snabb rundvandring i gränssnittet. Var man skriver, hur man startar ny konversation, var historiken finns, grundläggande inställningar. Så jag vet inte, vad tycker ni om de här två resultaten? Jag är insatt i ämnet så jag kan ju skumma igenom väldigt snabbt. Men här till exempel, den plockar upp väldigt mycket saker som blir aktuellt. För det du sa var föreslå, vad var det du sa i slutet? Det man ska ta med sig då, ställ gärna följdfrågor. Så vi ser likadant på det här. Och hur vi gör det här. Så egentligen, det man bara behöver säga, ställ följdfrågor. Det är det ni ska ta med er. Och anledningen är ju att. Claude ska, för att ställa bra frågor så behöver man ju uttrycka sig, allt som är mellan raderna också. Men man gör ju inte det som människa, man är rätt slarvig. Eller hur?
+
+Teams Stockholm - 1:12:15
+Man skriver bara en kort fråga och sen så bara, ja det där får räcka, så skickar man iväg det. Men om jag säger ställ följdfrågor, då kommer Claude säga att, ja men jag tror att det här, det här, det här, det var lite otydligt för mig. Och för att ge dig ett bra resultat. så behöver vi besvara de frågorna. Och när jag besvarar de frågorna, då får jag plötsligt ett workshopupplägg som jag hade kunnat använda idag, i princip. Eller, jag hade kunnat utgå ifrån det och skriva ner lite här, mitt riktiga upplägg. Men det här är ju, min Teams dyker alltid upp som en block för mina flikar. Men det här. Det här är ju bara ett generiskt workshop-upplägg, som inte ger mig något. Jag kan inte använda det här på samma sätt. Medan det här är något som jag har förklarat tillräckligt mycket. Så det här är. Jag vill inte komplicera, vara prompting och ställa frågor. Konsten som ni ska ta med er är, beskriv området så bra som möjligt. Ladda upp en FI, om det behöver finnas. Liksom, sista protokollet från mötet med ishockeyförbundet. Vad vet jag?
+
+Teams Stockholm - 1:13:33
+Och sen, ställ följdfrågor. För då, efter att ni har besvarat de frågorna som Claudier ger er, så kommer ni se lika på uppgiften. Det är oftast risken, och anledningen till att man får dåliga svar, att man inte har varit tillräckligt tydlig. Och det här är det lättaste sättet. att bli tillräckligt tydlig. Jag tänker pausa lite här. Funderingar, tankar? Vad sa du? Ja. Bra. Paus. Ska vi ta en liten paus? Yes, vi tar fem minuter då. Snurra huvudet. Vi tar en paus! När man sitter och lyssnar där, du pippar där och så sker det där.jor det att man processar. Och sen så går man. Jag vet, jag vet. Det är lite komprimerat två timmar här. Ska vi ta en kaffe? Men vi tar en kaffe. Det där är chokladbollar och kakor nu. Det var ju typiskt när jag kom hem igår kväll. Från Antropics.
+
+Okänd - 1:14:36
+Här är en massa nya funktioner!
+
+Teams Stockholm - 1:14:38
+Jag nämnde skills idag. Jag sa bara att det här är en ny funktion som kom igår, så jag kan inte säga så mycket mer. Jag satt faktiskt igår och läste. Jag tänker om man börjar där. Både grafisk profil och rättstavning. Så det är en jättebra funktion. Utöver projekt, för ett projekt ska egentligen vara till för att samla information, och då kan du snarare skriva instruktionerna i en skill. Precis, det tänker jag, det ska jag sätta med mig. Sen såg jag inte riktigt om man kunde pusha ut dem från admin till alla användare, eller om användarna själva. Det får vi kika på, jag vet inte heller. Det kom ju igår kväll. Men är det Ines och Fredrik? Jag ser att ni är kvar. Har ni någon fundering eller tänker ni på något?
+
+Fredrik Joulamo - 1:15:38
+Jag sitter och läser min. Jag har fått svaret på min research här nu.
+
+Teams Stockholm - 1:15:44
+Ja, spännande. Är det något intressant där?
+
+Fredrik Joulamo - 1:15:48
+Ja, det tycker jag.
+
+Teams Stockholm - 1:15:50
+Vad ställde du för fråga då?
+
+Fredrik Joulamo - 1:15:52
+Jag ställde en liknande fråga som du gjorde, fast med mina förutsättningar. Ge mig ett optimalt träningsprogram. utifrån mina personliga egenskaper.
+
+Teams Stockholm - 1:16:06
+Ja. Är det något du hade kunnat genomföra? Det ser bra ut, eller?
+
+Fredrik Joulamo - 1:16:15
+Ja, jag tycker det är intressant än så länge. Det är mycket att läsa.
+
+Teams Stockholm - 1:16:18
+Det får vi se här om jag ska lägga om min träning. Det är mycket att läsa. Så är det. Och det är ju. Ja, man väljer ju research av en anledning. Det är ju i princip som att skriva, alltså, det är inte lika seriöst som att skriva en PhD, men det ska ju vara en research som blir, har en lång substans i sig och mycket information. Det är skillnaden. Ines, något du klurar på?
+
+Ines Lopes - 1:16:50
+Men jag sitter här precis på samma sätt, fast jag ställde frågan. Vi har. Jag jobbar med skytte och vi ska genomföra här i december lite tester och lite sånt. Och feedbacken som man får både från våra fystränare och de aktiva själva är att de förstår liksom inte sambandet med att göra fysprofilen med skytte. Och då genomför de ju inte oftast med god kvantitet och kvalitet deras fysträning. De ser inte sambandet. Så då är det ju någonting som vi kommer att behöva jobba lite med våra experter. De måste genomföra träning. Så vad är det vi, hur ska vi göra? Alltså vad är då det bästa? Måste vi göra exakt det som gäller för alla idrotter? Eller kan vi få fram en lite mer spetsigt för dem? För de måste genomföra träning. De kan ju inte bara låta bli för att de tycker inte det är relevant. Vi måste hitta någonting som blir relevant. Så den håller på. Så det tycker jag är lite spännande. Den är inte klar.
+
+Teams Stockholm - 1:17:52
+Nej, min tar också tid. Men en addering där för en optimal prompt Ines. Eller optimal. Jag hade laddat. Det låter som att ni har ett facit hur andra gör. Eller? Så det hade varit intressant att få med även det facit i frågan hur andra gör för att då kunna kolla på det här. och det är så här andra gör, men vi behöver få det lite mer spetsigt på skidskyttet, då hade du fått ännu högre kvalitet. Och det kan du göra som en följdfråga sen, att ladda upp det dokumentet eller den informationen eller vad det är. För då kommer den spotta ut det i liknande format som ni redan har, vilket är positivt. Ja, det är bra.
+
+Ines Lopes - 1:18:47
+Jag är jättenyfiken på den här funktionen som du har, Whisper eller vad det är. Men jag vet inte, vi kanske måste ha någonting som hela organisationen säger att det här kan ni ladda ner. Så att inte alla hämtar kanske olika, jag vet inte.
+
+Teams Stockholm - 1:19:05
+Men det är väl Maja.
+
+Ines Lopes - 1:19:07
+Hur vi ska kunna göra det. Jag tycker den är ju superbra funktion. Den spar ju också tid än att behöva skriva allting utan precis som du gör här. Man kan få och så kan man ändra sig och så kan man komma med andra perspektiv och som Marja säger ställa följdfrågor till sin egen fråga. Jag tror den skulle underlätta användningen av det här rätt så mycket.
+
+Teams Stockholm - 1:19:29
+Ines, jag tror att vi börjar med det programmet vi har köpt in nu. Där kan du testa, men då får du använda dem på engelska. Jag tänker att vi börjar där.
+
+Ines Lopes - 1:19:38
+Ja, det är jättebra. Och lägga till saker när vi har testat.
+
+Teams Stockholm - 1:19:43
+Ja, men det låter sunt. Och testa det på mobilappen till en början. Så har du bra dikteringsmöjligheter med engelska. Så, men jag öppnar upp lite perspektiv åtminstone i alla fall. vad som kan vara ett tydligt arbetssätt framåt. Men Marja har rätt.
+
+Ines Lopes - 1:20:07
+Det är bra.
+
+Teams Stockholm - 1:20:09
+Men vi har Jag vet inte om någon, du till exempel Fredrik kan dela din skärm lite för min research jobbar på här. Så jag tänkte, försök. Vi väntar lite med research. Vi har andra saker att gå igenom först. Vi kommer in på research sen. Yes. Bara fråga. Ja, självklart. På telefonen sa du? Ja. Vilken ska vi logga in med? Din vanliga SOK-mail. Så du skriver din mail där. Ja, precis.
+
+Teams Stockholm - 1:20:54
+Så. Nu kommer vi. gå över till att utforska filskapande med Klam. De kallar det för ”artefacts”. Så vi alla kan göra det. Vi kan skriva ”Skapa en liten textfil”. inom något område. Det är bara för att ni ska se hur den beter sig. Skapa en liten textfil med en AI-policy. Så. Jag vill bara ta upp ett exempel så att ni ser hur det fungerar inuti programmet.
+
+Teams Stockholm - 1:21:52
+Såklart, för att få en bra AI-policy hade jag behövt göra mer. Jag hängde inte med. Det är bra att du säger till. Jag skrev ”skapa en textfil i en ny chatt med en AI-policy” och du kan ju be den skapa ett Word-dokument. Men okej, ni måste inte göra den här heller. Men det som vi ser här är att jag då fick en fil på höger sida, en AI policy. Jag kan då välja att ladda ner den som en PDF. Jag kan välja att dela den som en artefact. Och artefact är lika med fil. Okej? Det är bara att de har valt att säga artefact. Varför gör man det? Finns det någon abrovink på det? De är utvecklare och nördar i grunden. Artifacts betyder egentligen en kod-artifakt som gör något. Det är anledningen. Men jag vill inte komplicera det. Men det man kan göra är att dela den här och få en länk till den. Det kan vara bra om man bara ska dela den till en kollega eller liknande. Då kan jag få upp den i webbläsaren. En fil.
+
+Teams Stockholm - 1:23:10
+Det vi ska testa nu, för man kan skapa olika typer av filer här. Man kan skapa excelfiler, man kan skapa powerpoint, man kan skapa word. Och sen så kan man skapa, egentligen en kodad hemsida som ser annorlunda ut. Men håll er till word, excel, powerpoint och excel. Nu ska ni få ställa en fråga och be Claude att skapa. en utav de typerna av dokument åt er. Det kan vara inom vilket område som helst. Ha lite kul! Jag kommer då ställa en lite roligare fråga. Jag försöker hitta på något. Jag vill att du hjälper mig skapa en PowerPoint.
+
+Teams Stockholm - 1:24:06
+Den ska beskriva hur OS i Cortina ser ut och hur alla i landslaget kommer samarbeta och bo och resa. Vad vet jag? Ta den färgglad och ge mig fem sidor. Något sådär. Ja, det gör det här på ett bra sätt. Men att det bör gå att göra överhuvudtaget. Och det här är en av funktionerna som tar lite längre tid att göra. Jag skulle säga 3-5 minuter kanske. Det här är en för dålig beskrivning. Den ska beskriva hur OS i Cortina ser ut och hur landslaget kommer samarbeta på OS i Boresa. Det är för dåligt beskrivet av mig, eller hur? Men det vi vill bara se är hur bra kvalitet på presentationen. kan vi få. Hur kan den skapa en Powerpoint? Men gärna att någon testar Excel. Gärna att någon testar Word. Eller PDF. PDF går också bra. Inte Powerpoint? Jo, du får också testa det. Tänk vilken typ av de här dokumenten. Ja, ja, mest i min vardag. Är det PDF? Gör det. Är det Word? Gör det. Är det PowerPoint? Gör det. Är det Excel? Gör det. Excel kanske inte är er grej, så strunta i det i så fall. Din grej. Det är jag övertygad om.
+
+Okänd - 1:25:42
+Spännande att se hur. Nu är det på SOK. Nej.
+
+Teams Stockholm - 1:25:47
+Det är på vanliga. Jag hoppade ur. Jag fejdade ut där en stund. Så. Och?
+
+Okänd - 1:25:57
+Igår kväll.
+
+Teams Stockholm - 1:26:03
+Det ska gå. Ja, jävlar. Det kanske kan vara positivt, men jag tänker att det ska gå. Men jag, som sagt, det kommer en ny omgång igår kväll. Ja, igår kväll. Men fattningen är ändå full. Jag hörde att du har pratat och jag tycker inte det.
+
+Teams Stockholm - 1:26:38
+Jättespännande.
+
+Okänd - 1:26:39
+Eller hur?
+
+Teams Stockholm - 1:26:41
+Det här är ju något som liksom. Det här är något du säkert har gjort i 20-30 år eller 10 år. Att skapa dokument av olika slag. Här kan du beskriva vad du vill ha för dokument och få den att skapa det åt dig. Vi får se om du blir nöjd. Men det är sådana förhoppningar man hoppas att AI kommer hjälpa en med. Alltså det här administrativa tråkiga. Var klickar jag på new slide i Powerpoint? Det är jättetrist. Jaha, var är SOKs grafiska profil då? Hur ska den se ut i Powerpoint? Sen så måste man ju fixa disponering. Alltså allting. Alltså det tar ju. Jag hatar Powerpoint. Så jag gör ju aldrig Powerpoint. Men här kan man ju då skapa en väldigt bra grund väldigt snabbt. Vi får se här. Jag tänker att här vill jag också, när ni blir klara, som sagt. Det tar lite tid här. Men ungefär tre till fem minuter har min erfarenhet varit. Det är lite annorlunda än att skapa en Powerpoint själv som tar två timmar. Tre timmar. Fyra. Om jag hade arbetat mer optimalt här så hade jag återigen kanske bett Claude ställa följdfrågor om samtliga slides.
+
+Teams Stockholm - 1:27:58
+för att den skulle få rätt information från mig, som ett exempel. Ställ följdfrågor. Ställ följdfrågor, så att jag får möjlighet att ge CLAD rätt information. Det är det det handlar om. Och det är svårare än man tror att ge rätt information. Kan CLAD skapa filmer? Nej. Nej. Ingen sån funktion. Det finns ju många AI-verktyg som kan skapa filmer numera. Det var ju någon ny som kom här i veckan också. Ja, OpenAI. Men liksom. CLAD är en mer professionell plattform än ChatGPT. Du kan inte skapa filmer. Du kan inte skapa bilder. Hur många riktiga arbetsexempel har man på folk som skapar filmer och bilder? Det är mest Katarina. Okej, så de här kan inte skapa bilder heller? Nej. Men jag tycker. Tur för Tomas. Ja, tur för Tomas. Det är möjligt att de släpper det, men det är mest lek. Visst, ni ser den här. Jag tycker att det är en väldigt bra funktion. Det skulle vara en väldigt bra funktion. Nu jobbar ju inte jag med sociala medier. Men om man lägger ut på sociala medier, att kunna få hjälp och skapa en bra intro eller en snygg bakgrund.
+
+Teams Stockholm - 1:29:30
+Absolut, om du kan få det tillräckligt bra. Och man börjar kunna få det. Det här som krävdes, att man var en sjukt bra programmerare för att kunna göra tidigare. Att man aldrig själv kunde ta den typen av introducerade intro på små klippor och sådana saker. Ja men absolut, absolut. Nu kanske jag inte pratar ur jobbperspektiv direkt, utan mer ur andra frågor. Ja men absolut, absolut. Så det finns ju bra användningsområden. Det är inte det jag säger, men. ja. Det är viktigare att skapa dokument generellt på en arbetsplats än att skapa bilder för social media. Kommunikationsgruppen har ju andra typer av behov och kanske ska ha ett annat verktyg som nischar sig på att ta fram bilder. Och grafiska delar. Där finns det andra sätt man kan göra det. Och andra modeller. Så när du säger ta fram ett dokument, då är det gärna en JPG? Nej. Det kan man inte göra. Du kan ta fram en PowerPoint. Du kan ta fram PNG åtminstone, vet jag. Så du kan be den att ta fram PNG-bilder. Det kan du göra, men det är inte som likadan funktion.
+
+Teams Stockholm - 1:30:44
+Ni har säkert sett att den tar fram verklighetstrogna bilder på Trump eller Obama. Den funktionen finns inte här. Som sagt, det tar lite tid här. Är det någon som är klar? Det är så här arbetet kommer fungera framöver. Fredrik har satt igång något här och sen så går han och gör annat. Sen kommer han tillbaka och sen är allt klart.
+
+Ines Lopes - 1:31:08
+Jag har något som är lite klart men jag fick inte riktigt det till hundra procent. Så frågan är ju bara vad jag hade kunnat gjort för att få det. Jag fick nästan, men inte.
+
+Teams Stockholm - 1:31:18
+Spela Ines!
+
+Teams Stockholm - 1:31:38
+Okej, klicka på download. När det kommer till Excel så är det alltid bäst att ladda ner den och öppna det i riktiga Excel. Så kommer du se, det kommer bli lite annorlunda möjligtvis och tydligare. Nu delar du säkert bara webbfönstret också.
+
+Ines Lopes - 1:31:59
+Förlåt, jag ska säga.
+
+Ines Lopes - 1:32:06
+Jag delar den igen.
+
+Okänd - 1:32:08
+Vänta.
+
+Teams Stockholm - 1:32:12
+Så. Nu blev det lite snyggare i alla fall. Berätta vad du har gjort.
+
+Ines Lopes - 1:32:17
+Jag ville att den skulle få ner det i hela Milano Cortinas tävlingsprogram. Jag vill gärna se dag för dag vilka det är som tävlar per dag. Hur många det blir och där det är liksom.
+
+Teams Stockholm - 1:32:32
+Ja.
+
+Ines Lopes - 1:32:33
+För att till exempel om jag ska göra ett besök då vill jag gärna veta vilka som tävlar varje dag, vilka som är igång. Och sen i så fall också vilka som skulle kunna vara mest aktuellt att kunna göra ett besök på eller något sånt där. För vissa dagar är det mera tävlingar än andra dagar. Så jag vill bara se vilka som är mest fulla. Framförallt i vårt jobb. Vi kommer ha vissa dagar där det kommer bli super. Allt sker samtidigt och vissa andra som är lite glesare. Men det är antal idrotter som jag bad om. Jag vill veta antal idrotter per dag och där det är som mest fokus. Den kom inte fram. Så den är antal idrotter tom som du ser. Den stod det bara noll på.
+
+Teams Stockholm - 1:33:19
+Okej. Så som jag hade gjort Ines, om du går tillbaka och öppnar Plan.
+
+Teams Stockholm - 1:33:32
+Stäng ner den till höger, excelfilen, så vi får lite tydligare. Så som jag hade gjort, om vi scrollar längst ner här. Innan jag hade bett den skapa excelfilen, då hade jag chattat lite först. Okej. Fram och tillbaka för att få fram allt som du vill veta, så att du redan ser det i själva chatten. Och när du har den informationen att så här många idrotter är det på den dagen, så här många på den dagen, så här många på den dagen. Och du känner att det här ser ju bra ut. Kan vi få en Excel på det här? Är du med? Jobba lite fram och tillbaka, få ett bra resultat inuti CLAV. Sen säger du, kära CLAV, kan vi exportera det här till Excel och göra det snyggt? Då hade du ökat dina odds väsentligt.
+
+Ines Lopes - 1:34:27
+Jättebra.
+
+Teams Stockholm - 1:34:29
+Bra. Är det någon annan som vill dela resultat?
+
+Teams Stockholm - 1:34:36
+Nån som har fått nåt intressant? Katarina?
+
+Fredrik Joulamo - 1:34:39
+Jag får ungefär samma som Ines. Jag har försökt få fram ett schema. Men lite mer detaljerat. Sen bad jag om en Powerpoint. Kan man ladda upp vårt manér och låta den göra i det?
+
+Teams Stockholm - 1:34:58
+Jag och Anton kommer att jobba på det. Och vi kommer antagligen ha ett uppföljningsmöte när det är klart för alla. Vi får se det. Vi har inte det klart. Men det är på agendan. Grundtanken är att det ska in. Jag har suttit lite med det men kommer behöva lite hjälp. Men förhoppningen är att få in så mycket som möjligt i vår grafikarbetil. Eller generellt i alla fall.
+
+Fredrik Joulamo - 1:35:26
+Jag har gjort en del dragningar om Milano-Cortina  och ska göra det ytterligare några gånger  till olika typer av målgrupper, nu närmast med Deloitte  och då handlar det om väldigt överskådligt. Man har ändå lagt, som du konstaterade tidigare, säkert 20 timmars arbete på att göra olika presentationer. När jag nu tar fram den här så är den informationsmässigt  så är den ju . lika bra som jag kan få fram den med lite tillägg.
+
+Teams Stockholm - 1:35:57
+Vi jobbar efter fem minuter.
+
+Fredrik Joulamo - 1:35:59
+Ja, exakt. Det tar fem minuter. Hade man kunnat använda vårt manér, då hade jag i många fall kunnat spara några timmars arbete på att bara göra det på det här sättet, eftersom du väljer vilken målgrupp det är. Väldigt effektivt, måste jag säga. Sen kanske man behöver göra justeringar, men då kanske det är en halvtimme, en timmes jobb istället för tre-fyra timmar.
+
+Teams Stockholm - 1:36:24
+Perspektivet, Fredrik. Låt AI göra 80%. Sen är det du som gör resten.
+
+Fredrik Joulamo - 1:36:33
+Jag har konstaterat att hela mitt träningsupplägg är kontraproduktivt. Jag brukar springa en halvtimme och sen gymma en halvtimme. Det är tydligen rent. Det är inte bara icke att rekommendera. Det är rent destruktivt för mina mål. Så jag har lärt mig någonting idag.
+
+Okänd - 1:36:50
+Det är bra.
+
+Teams Stockholm - 1:36:53
+Och Katarina?
+
+Katarina Vangdal - 1:36:58
+Jag skrev en. Jag vill också ha en excelfil. Kopplat till friidrotten. Och sen stod den bara och buffrade. Det kan vara mitt nätverk men samtidigt så är tidsmötet. Det funkar jättebra. Så det var nog inte det. Så jag ställer om frågan.
+
+Teams Stockholm - 1:37:11
+Det händer sånt ibland. Okej.
+
+Katarina Vangdal - 1:37:15
+Så nu jobbar den på det. Så det tar en liten stund. Men jag vill ha hur många grenar det finns i OS och friidrott samt hur många deltagarplatser respektive gren har. Det var en enkel.
+
+Teams Stockholm - 1:37:26
+Men den är inte klar.
+
+Katarina Vangdal - 1:37:28
+Så. Den kan jag hoppa fram snabbare. Jag vet Thomas. Jag har ju min egen Claude i dig. Men nu har jag fått den i alla fall.
+
+Teams Stockholm - 1:37:38
+Vad bra. Nu var den klar. Vi här i rummet, har ni något som blev intressant? Nej. Jag delar igen i så fall, och så ska vi hålla på med en Powerpoint. Bara för att se hur den blev. När det kommer till Powerpoint och Excel brukar jag ladda ner det för att få upp det såhär. Jag bad den att göra det färgglatt, så nu fick jag ju det. Om OS-datum, grenar, om spelen, svenska truppen. 130, första uttagningen, 13 idrotter. Tävlingsorter. Samarbete. Här blev det ju ett fel. Sånt händer ibland. Man får leva med det. Men återigen, 80 procent fick jag till. Här kan jag såklart minimera den lite på eget bevåg och fixa till så det blir bra. Men nu orkar jag inte göra det. Men jag tror att. Några frågor om filgenereringen? Man laddar ner här. Vissa filer, inte PowerPoint och Excel, men med vissa kan man också dela, som jag visade.
+
+Ines Lopes - 1:39:04
+Hur är det med grafer och sånt då? Om man skulle vilja eller behöva göra något sånt.
+
+Teams Stockholm - 1:39:11
+Oj, varför har jag inte fått den frågan innan Inez? Nu ska vi jobba här. Och nu däremot så är det en utav funktionerna som jag ogillar med CLAD som blir otydligt för er.
+
+Okänd - 1:39:23
+Tyvärr.
+
+Teams Stockholm - 1:39:26
+Inte mitt fel. In på settings här där vi var i början. och om man går på capabilities. Ni behöver inte göra det här. Var kvar på det. Det jag kommer göra nu är att jag kommer välja analysistool istället för att kunna skapa filer. Så det är två olika delar här. Jag kan inte ha båda iklickade samtidigt. Jag vet inte varför. Jag är jättebesviken på det. Men med analysistool kan jag skapa, produce data visualisations in real time. Ni behöver inte göra det här idag, men ni kan känna till att den finns. Det jag kommer göra här är att jag kommer ladda upp en fil och sen så kommer jag, jag sa att jag spelar volleyboll förut, visualisera och, eller vänta, analysera och visualisera detta. Det där borde räcka egentligen. Jag ska visa vad den ska analysera och visualisera såklart, så det blir tydligt för er. Där har vi den. Sådär. Jätteintressant. Men det här är CSV-data. Här har jag jobbat jättebra. Det här är syntetisk data, för det första. Det är bara att hitta data. Men det som det står här är Om ni ska ladda upp sådana här data så är det bra att tänka på att ni inte laddar upp namn på idrottare till exempel.
+
+Teams Stockholm - 1:40:58
+Utan här har jag översatt till SWE manlig volleybollspelare 0001, står det här. Och då kan jag ladda upp det. Varför kan man inte ladda upp namn? Det är personuppgifter. Och det ska man vara lite försiktig med att ge till CLAD. Det är min enklaste förklaring. Så man ska försöka, alltså ur GDPR-syfte, det är anledningen. Om jag har tio puckelåkare som har kört tester och gjort det i tio år och så skulle jag vilja lägga, för jag har det i en fil, hela deras funktion. Och så skulle jag vilja be dig visualisera, då borde jag byta ut namnet. Ja, då klickar man på kontroll, eller man behöver gå till Jag tror man kan göra det här. NBB. Vi får se om jag kan. Ja, då kan jag replacea ett namn med 0001 till exempel. Anton kan ju det här jättebra, så jag lämnar över det om man behöver tvätta data. Så om ni är osäkra, kika där. Men här har jag många tester. Fystester. Det är ni säkert experter på, men det gjorde jag när jag gick på Riksidrottsgymnasiet. Ni kommer ihåg att man kan göra stapeldiagram i Excel, eller hur?
+
+Teams Stockholm - 1:42:26
+Det här är lite bättre. Nu kommer jag att share and copy link, och då kan jag också dela det här till mina kollegor till exempel. Skicka över på Teams. Men sen så får jag upp det här tydligare. Så jag har tusen stycken spelare. Jag har en medellängd på 192, medelålder, genomsnitt, spikehopp. Åldersfördelningen är så här. Genomsnittlig presentation. Längd vs hoppförmåga får jag ett plotterschema på. Topp 15 prestationer. Då kan jag välja Counter Movement Jump, till exempel. Det var.
+
+Teams Stockholm - 1:43:11
+Ni förstår att jag kan få rätt mycket insikter och visualiseringar av datan på ett helt annat sätt än man har varit kapabel till innan. Den här tog fram alla de här grejerna utan att du gav några instruktioner mer än att de skulle göra? Analysera och visualisera. Det enda jag skrev. Det den gör då, vi ska inte gå in i detalj, men den analyserar det genom att lyfta in Excel och skriva lite kod omkring det. Sen, hur den visualiserar det, är att den skapar en fil som också har kod i sig, för att kunna göra den här grafiska visualiseringen. Man kan se det som att den egentligen kodar upp en egen liten webbsida, typ. Eller en liten applikation, för att kunna visualisera den här datan på ett bra sätt. Lite komplext, men det är värt att känna till. Vi har ett bolag i Sverige som heter Lovable. Som ni kanske har hört om? Det är ett AI-bolag i alla fall och de hjälper bolag att koda på ett bra sätt. Skapa webbsidor, skapa applikationer genom att bara chatta med AI. För AI är väldigt bra på att skriva kod.
+
+Teams Stockholm - 1:44:26
+Precis som den är väldigt bra på att skriva text. Ines, kopplar jag tillbaka till dig lite. Vad tyckte du om den här visualiseringen?
+
+Ines Lopes - 1:44:34
+Det är bra att veta att det finns också.
+
+Teams Stockholm - 1:44:38
+Absolut. Yes, jag tänker att vi nu ska gå in här på Projects. Vänsterkolumnen Projects. Vill du hoppa över till min logg? Nej, jag är inloggad rätt. Ja, det har jag fixat. Yes, alla inne i Projects. Nu ska jag hoppa in där och så in i en ny flik. Och prova vilken det är. Den här. Den är Project. Och nu, om vi klickar på Your Project så är det mina projekt här. Om vi klickar på team så ser vi att Anton har skapat upp två projekt. Så vi kan hoppa in på tävlingskollen. Nu vet jag inte riktigt vad man kan ställa för fråga här. Men kör tävlingskollen, skriver jag bara. Ni behöver inte göra det här, ni kan hänga på. Är du trött gubben? Jag tror det. Den behöver ju få lite tid på sig att köra. Men poängen är att jag och Anton kommer gå igenom och skapa upp flera teamprojekt till er. Det kan vara att vi laddar upp info om OS i Cortina, som vi har börjat med lite här. Eller det kan vara att vi laddar upp intern information om hur det är att jobba på SOK. Och information om er. Vi får se exakt vart vi landar.
+
+Teams Stockholm - 1:46:25
+Men det vi ska göra tillsammans är att vi kommer skapa ett nytt projekt. Alla måste inte göra det här. Det jag tänkte . Iron Man 2026 ska jag skriva här. Du håller fast vid Iron Man? Ja, det är ett bra kök. Klara, Klara, Iron Man. Så. Och då skapar jag det här projektet. Återigen, projektet är inte så komplext. Det är en mapp. Det är en mapp. Punkt. Men det man kan göra här då, om man kollar till höger här, så kan man lägga till filer. Så man kan både ladda upp från Device eller så kan man lägga till vanlig text här. Varför man vill göra det, det är ju för att man, vi har varit inne på det lite innan, men för att ge CLAD bäst förutsättningar att lösa ett problem, så är det bra om vi laddar upp filer. Och här kan vi ladda upp filer i en mapp om hur jag ska klara Ironman 2026. Så, för er som har gjort en research, så kan man klicka här på Sidebaren och försöka hitta researchen. Som ni har gjort. Jag har den också i min flik här. Minimalist Strenght Training Plan hette min. Okej, så för er som vill hänga på så öppnar vi upp dokumentet här.
+
+Teams Stockholm - 1:47:55
+För här borde ju då jag ha fått en forskningsbaserad träningsguide för Ironman-förberedelser med styrketräning. Och om vi kollar på den här. så är den rätt lång. Men man kan ju kanske här. Vi kan kolla lite på vad jag tycker om grunden, eller det här är ju det centrala i det. hur jag faktiskt ska träna. Återstartfas. Styrketräning två gånger en vecka. Måndag plus torsdag. Knäböj två gånger åtta till tio repetitioner. Marklyft, bänkpress, chins. Ni ville att jag skulle göra jättemycket. Jag vill inte göra så mycket. Jag ville bara göra en övning. Men det där är nog bra. Men jag tänkte göra så här. Jag laddar ner den som markdown. Markdown är egentligen. bara ett filformat som är rätt vanligt i AI-världen. Men det är egentligen bara ett text-format.
+
+Okänd - 1:48:54
+Kort och gott.
+
+Teams Stockholm - 1:48:56
+Så jag kommer ladda ner den filen. Och sen kommer jag gå tillbaka till mitt projekt. Ironman 2026. Och sen kommer jag ladda upp filen här. Upload from device. Jag har inget sådant alternativ på Apple of Profiles. Om jag går in på tävlingskollen så finns det inte något. Nej, precis. Det är nog Antons projekt. Så du måste äga ett projekt för att få redigera det projektet. Men du kan ju skapa ett eget projekt i din egen. Ja, jag gick in på tävlingskollen. Då kan du ladda upp den. Okej, så. Nu ska jag illustrera varför det är kraftfullt med projekt. Så, nu är vi vid vanliga krav. Första vanliga, ny chatt. Hur ska jag träna inför Ironman 2026 i juni? Så, nu har jag gjort bara en väldigt lat fråga. Men jag tänkte ställa samma fråga. Och här har jag ju också information om hur jag ska träna, eller hur? Som jag har laddat upp från en forskning, från en research. Så, vi ska jämföra de här svaren lite.
+
+Teams Stockholm - 1:50:33
+Så ni känner igen lite att det stod ju också återstartfas i researchen, eller hur? Styrka, okej? Uthållighet, mål. Komma igång säkert utan överbelastning. Basfas, november till februari, 16 veckor. Byggfas, mars till april, 8 veckor. Toppningsfas, maj, 3 veckor. Praktisk veckostruktur, basfasen. Häll separata dagar. som Fredrik också fick lära sig. Måndag tisdag simning cykel. Onsdag lätt löpning plus core. Torsdag styrka helkropp. Fredag simning teknik. Lördag lång cykel. Söndag långpass löpning. Jag vet inte, det här känns bra för att träna Ironman. Tycker jag. Bra utspritt och bra genomtänkt. Lång cykel, långpass löpning. Gillar att man har cykel före löpning, tror jag. Här då. Nu tillbaka till där jag bara frågade Claude utan den här forskningen till hands. Periodisering oktober till juni, basperiod. Byggperiod, toppningsperiod. Det är lika. Simning, 3-4 pass, totalt 18-8-12 km i veckan. Cykling, 3-4 pass. Viktiga komponenter. Ser ni skillnaden i svaren? Det här är inte lika tydligt och genomtänkt, skulle jag säga.
+
+Teams Stockholm - 1:52:18
+Medans här så får jag ju utifrån den researchen jag gjorde.
+
+Teams Stockholm - 1:52:32
+Så det kraftfulla med projekt, det är att samla information som ni tycker är bra. Och då kunna få bättre svar ifrån CLAD på en gång inom området träning för Ironman. Eller området fysskidskytte. Eller vad det nu kan vara. Så man samlar bra vettig information som ni har med er i ert bagage, i er kunskap. som gör att CLAD rekommenderar, utifrån era grundläggande bra reella källor, som gör att ni kommer känna att CLAD förstår mig. CLAD förstår vad jag är ute efter, på ett helt annat sätt. Jag vet att projekt kan vara det lurigaste att få huvudet runt. Så ställ gärna frågor nu. Om det är något otydligt om projekt. Man behöver jobba mer med det. Ja, och få fram frågorna. Jag tror att det är bra att. Nu ska vi se om vi kan gå in på Tävlingskollen. Och se om vi fick tillbaka. Ja, men här. Nu. Kolla. Jag ställer bara frågan. Kör Tävlingskollen. Anledningen till att det händer rätt mycket här, det är ju för att Anton har laddat upp en total lista med väldigt mycket information om alla era deltagare och lite annat.
+
+Teams Stockholm - 1:54:17
+Och sen så har han också skrivit instruktioner för hur Claude ska göra det här. Så det är också en del som jag inte gick igenom först, men man kan skriva instruktioner som innebär att Claude ska jobba. på det här sättet. Den enda informationen som ligger inlagd är tillgänglig på webben. Du behöver inte gå in. Vad skönt du säger. Det är ingen annan info om de aktiva som ligger inne. Det är bara vilka aktiva. Ja, vilka aktiva. Och hur ska Claude svara? Så det som vi får här då, i ett mer gediget, genomjobbat projekt, för att bli tävlingskollen. Ni är ju bekanta med det. Men det här blir då resultatet genom att jag bara säger ”kör tävlingskollen”. Jättesimpelt. Och då får man ju världscuppremiären 26-27 oktober. Hmm, jo, det där. Vänta, körd? Det här är lite intressant. Vänta, kom. Jo, det stämmer ju. Men jag vet inte varför den tog med från 2024 så mycket. Men ja, det är väl lite senaste status eftersom det är kommande säsong snart. Nu måste man precisera frågan lite. Ja, handboll, damlandslag och så vidare.
+
+Teams Stockholm - 1:55:49
+Men jag stänger ner här. Jag slutar dela. Så, jag vet att det är mycket. Och mycket vi har gått igenom. Så är det, punkt slut. Men nu har ni fått hela rundgenomgången i allt det intressanta som Plan kan göra. Ni lär er inte från att sitta här med mig. Ni lär er genom att knappa, trycka, testa, utforska. Var som Katarina, lekfulla och nyfikna. Kort och gott. Och så märker vi. Det intressanta är ju, som Fredrik var inne på, kanske det toppexemplet där. Jag har lagt  20-12 timmar på att ta fram powerpoints. Kan jag få ner det till en kvart, en halvtimme, per powerpoint? Det är sådana delar som är intressant. Återigen uppmuntrar jag er att utbyta idéer och tankar med varandra. Det är ni som jobbar med så liknande saker som möjligt. Du, Fredrik, i huvudspets. Håll fanan och bara fråga. Har ni hittat något värde? Har ni gjort något coolt? återkommande, så tror jag att ni kommer hitta ofantligt mycket. Men jag tar gärna en runda runt bordet här.
+
+Thomas Engdahl 1 - 1:57:04
+Thomas vill börja.
+
+Teams Stockholm - 1:57:06
+Thomas vill börja. Kör!
+
+Thomas Engdahl 1 - 1:57:09
+Ja, tack. Det var intressant. Jag kan väl säga att jag har ju använt Fredrik som min AI för att jag alltid frågat efter hans powerpoints och så har jag koppat dem när jag ska ut. Det har gått ner i mycket mindre än 15 minuter för mig.
+
+Teams Stockholm - 1:57:22
+Bra smart.
+
+Fredrik Joulamo - 1:57:24
+Det är bra. Du ska inte börja kalla mig för Claude nu bara, Thomas. Jag heter Fredrik.
+
+Thomas Engdahl 1 - 1:57:33
+Aj då.
+
+Teams Stockholm - 1:57:35
+Yes, men Thomas, någon mer tanke från dagen? Något du tar med dig som du tror att du kan ha användning för i din vardag?
+
+Thomas Engdahl - 1:57:45
+Jo, men det tror jag. Dels att ta fram fakta och granska texter och sånt där är väl det mesta. tror jag kommer använda till att börja med. Och det som  en del var inne på här med också dagsprogram på OS, det Katarina googlade på friidrott som gäller massa siffror och människor  sånt kan vara bra. Jag lekte själv med talangselektion och försökte  få fram hur många friidrottare som tar medalj på  junior-VM och har tagit medalj på VM och OS. som seniorer och sånt, och det tar ju lite tid att ta reda på själv. Sådana grejer tycker jag kan vara bra.
+
+Teams Stockholm - 1:58:26
+Ja, men lysande. Fredrik, från din sida, vad tar du med dig?
+
+Fredrik Joulamo - 1:58:32
+Jag tyckte det var jättebra att få lite så här  Lite inspiration i vad man kan göra. Sen kräver det övning och praktik att man testar sig fram till vad som är bra. Men jag tänker på, vi var inne på det på mötet innan som jag pratade om. Sitter ju vartannat år i en otroligt arbetsbetungande beredning av ett landslagsstöd tillsammans med RF och SPK. Jag tror att det är jättemycket vi kan göra med hjälp av det här i analysen av de här elitutvecklingsplanerna. Alltså om man ramar in vad frågeställningen är, bedöm den här elitutvecklingsplanen i förhållande till . av vad det nu kan vara, och få ut en sammanfattning av de viktigaste punkterna. Jag tror i alla fall i det specifika området, den typen av hantering, tror jag kommer att kunna hjälpa oss jättemycket.
+
+Teams Stockholm - 1:59:26
+Verkligen. Att både analysera, förbättra texter, få ut insikter från texter på ett sätt som du vill ha det just idag. Det är verkligen kraftfullt.
+
+Fredrik Joulamo - 1:59:39
+Ja. Sen alla de här, jag tänker också på, det är otroligt mycket material i de här. Ja, men Inför Milano-Cortina, Chef the Mission-guiden, det är ju tusentals sidor känns det som. Att kunna få sammanfattningar av de viktigaste punkterna beroende på. Men det bygger på att man blir duktig på att ställa rätt frågor. Och det är det man behöver öva.
+
+Teams Stockholm - 2:00:11
+Marja har ju gjort ett projekt just med alla Milano-Cortina-dokument. Vi kan titta på den igen. Det ligger ett inne så man bara kan.
+
+Katarina Vangdal - 2:00:23
+Det är verkligen inte jag.
+
+Teams Stockholm - 2:00:26
+Där kan man gå in och börja leka med och testa och se vad man kan få. Milano-Cortina-dokument 26. Och sen så om man inte ser den här så finns den under team. Vad ska jag ställa för fråga?
+
+Fredrik Joulamo - 2:00:41
+Här ligger hela CDM-guiden, ser det ut som. Det är precis så.
+
+Teams Stockholm - 2:00:46
+Man kan ställa en fråga. Vad gäller för vappar i borgen? Va? Vilka regler gäller för VAPP i Livigno?
+
+Ines Lopes - 2:01:12
+Den eviga frågan.
+
+Teams Stockholm - 2:01:15
+Jag söker efter information. Här är vad som gäller.
+
+Teams Stockholm - 2:01:28
+Det här är ju skitbra!
+
+Fredrik Joulamo - 2:01:30
+Ja, det är det. Absolut.
+
+Teams Stockholm - 2:01:34
+Jag har ingen aning.
+
+Fredrik Joulamo - 2:01:34
+Det var väl det här jag var inne på, men då är det någon som redan har gjort det.
+
+Teams Stockholm - 2:01:41
+Tanken är ju att jag tror att ni ska leka mest med egna projekt till en början. Kanske inom teamet något. Men jag och Anton kommer sätta lite struktur på det så att det inte blir. Ja men ni vet hur det kanske var med Microsoft Teams någon gång i tiden, att det bara poppade upp massa olika team i onödan. Men jag tänker att det här teamet skulle man väl kunna leka lite i? Ja, absolut! Så kan ni göra ett nytt med ramarna. För det är ändå kul att komma igång. Ja, testa! Sen tror jag nog att. Just från IOKs sida så jobbar de ju också jättemycket och det kommer Anton informera om sen. Men de har skapat någon egen liten, ja det tror jag, efter din utbildning.
+
+Fredrik Joulamo - 2:02:26
+På något vis.
+
+Teams Stockholm - 2:02:29
+IOK har ju en egen AI-funktion på sitt nätverk.
+
+Okänd - 2:02:35
+Det är möjligt att man också kan göra på samma sätt.
+
+Teams Stockholm - 2:02:40
+Men det här är ju ändå. Jag tänker att testa igen. Ja, testa. Bra att vi fick ett riktigt bra VAPS-exempel. Ines, tankar från dig?
+
+Ines Lopes - 2:02:55
+Nej, men det är som Fredrik säger, inspiration och sen att man bara får veta lite grunderna till varje funktion och sen måste man göra det till sitt eget. Vad kommer jag få dra mest nytta? Och sen är det ju tid att leka och framförallt med prompterna. Det måste man ju bara lära sig genom learning by doing. Min son är expert på detta. Han låser in sig i mitt sovrum och bara tjatar med ChatGPT i tre timmar. Och skapar nya världar. Vi får leka tillsammans.
+
+Teams Stockholm - 2:03:28
+Det låter jättebra. Smart. Katarina, jag såg att du var på fot. Så om du vill säga några ord så får du göra det. Om det går. Ja, men jag är kvar.
+
+Katarina Vangdal - 2:03:41
+Jag rör på mig. Tydlighet, tänker jag. Det blir ju en hjälp. Jag ser det som en assistent som kan stärka mig i egentligen kommunikation i alla riktningar.
+
+Teams Stockholm - 2:03:58
+Och håller med alla andra också, och sen verkligen testa sig fram och våga göra det. Verkligen. Nej, för man lär sig ju vilka verktyg man ska använda för olika uppgifter. I början tog jag alltid fram mina workshops och hade dem inuti CLAD, typ som jag gjorde idag. Men sen insåg jag att nej, jag vill . Jag kanske vill jobba fram workshopen inuti CLAAD, men jag vill skriva ner det absolut viktigaste på ett papper så jag kan ta med mig det. Så det blev rätt verktyg för mig i slutändan att ha med mig. Så jag vill också säga att AI är ett verktyg för oss. Att hjälpa oss. Man måste hitta, genom utforskande, vart det här verktyget passar. Det passar inte till allt. Men det passar till en hel del saker som man kan göra på datorn i alla fall. Yes. Och, Mårten? Jag är inne på samma sak som de här. Lära sig ställa frågor och in och leka med det. Det är ett fantastiskt verktyg i att kunna göra grundjobbet, så att säga. 80%. Så det är bara att komma igång. Köra med och lära sig förstå litegrann. Då får man hugga Anton.
+
+Teams Stockholm - 2:05:12
+Och Anders och Maja och, jag hör hur de funderar ibland. Det jag tycker är coolt med det här verktyget, är att visst, de som är lite mer tekniska kanske kan få ut några procent till av det här verktyget. Men om man jämför med Excel, eller Sharepoint, då är det såhär, vad jobbigt det är att lära sig. Tycker jag. Vad är alla knappar i Excel? Jag blir bara förvirrad. Hur gör jag en graf? Här handlar det om att uttrycka sig med det mänskliga språket för att få saker och ting hända. Det kan vi alla. Det kan vi alla jättebra. Den här talfunktionen som du hade där, varför finns inte den som default på programmet? Bra fråga. Den finns ju som sagt på mobilen. Så det tycker jag att man ska utforska. Ja det gör det. Det är mick där, det är bara att prata. På engelska. Du måste prata på engelska däremot. Okej, den står här på engelska. Bra! Jag har ingenting att tillägga mer än det jag har sagt. Jag har suttit med tennis här. Det finns en del idrotter som har sjukt mycket statistik. Att enkelt ta fram vad, om man är rankad topp 10 när man är 13-14 år, vad är sannolikheten att man är topp 100 när man är 20?
+
+Teams Stockholm - 2:06:34
+Det är superbra grejer. Det har jag suttit och letat efter själv nu istället. Sitter och pickar av massa listor och grejer. Så det kan nog vara väldigt bra hjälp. Toppen hörni. Yes, det är allt från mig. Vi kommer att starta på varandra igen. Men frågor och sånt, för det kommer ju dyka upp nu när ni är igång. Då tänker jag att, hur ser du att det borde funka här internt Marja? Frågor, både till mig och Anton, beror på vad det är för någonting. Men gissningsvis kan Anton svara på alla tekniska frågor, och jag kan svara på andra frågor. Men bättre att ställa frågorna, så tar vi dem vidare. Jättebra. Så att inte vi kan lösa det. Ja, men absolut. Ni ska känna att ni får den hjälpen, och kunna nyttja det här verktyget. Försök göra något varje dag nästa vecka. Något litet varje dag. En fråga, åtminstone. någon arbetsuppgift, åtminstone varje dag. Och sen tror jag, om ni gör det, så kommer ert arbetssätt ha förändrats helt på en månads tid. Och det är av en anledning, att ni märker att er vardag blir enklare på grund utav det.
+
+Teams Stockholm - 2:07:48
+Jag kan lägga till en sak, jättebra. Det vi kommer göra, det här är ju en testperiod om det är det här verktyget vi ska ha. Men vi tänker att vi kör det här nu. och under OS och sen i vår kommer vi göra en utvärdering internt om vad vi har tyckt om det och kanske om vi behöver jobba ännu mer med det, men om det är samma verktyg eller något annat. Men det är planen.
+
+Okänd - 2:08:12
+Jättebra.
+
+Teams Stockholm - 2:08:13
+Vilka är de andra verktygen som finns på Copilot? Vi kikade, Copilot är ju en del som vi kommer utforska lite och ni kommer få inblick i det. Sen så är det andra verktyget, det är ChatGPT egentligen. som vi pratade om, som att det var aktuellt. Copilot, är det likadant som det här? Löser man saker? Nej. Eller annan? Det bygger på samma teknologi egentligen. Alltså en språkmodell som sitter i ett datacenter som ger oss svar. Så det bygger på samma teknologi men Copilot har helt andra möjligheter kring att hjälpa er. Det jag skulle summera det som är att Copilot är bra på att vara en hjälpreda i Office 365. Typ söka reda på lite information. Söka reda på vad är kontaktuppgifter för de på ishockeyförbundet? Då söker Copilot igenom din mail, dina chattar och Sharepoint. Så då kommer du få hjälp att hitta det svaret. Men typ skapa den här excelen eller powerpointen. eller söka på information, sammanställa information, så är kvaliteten väsentligt lägre än CLAD.
+
+Thomas Engdahl 1 - 2:09:29
+Jag kan bara lägga till där innan tiden rinner iväg. Det kommer vi göra på ett annat sätt. CLAD har vi bestämt, det kommer vi köra för alla. Gör vi utbildningarna och sen gör vi en liten utvärdering. Är det här något vi tror att vi kommer behöva alla, eller är det några? Den kommer vi ha en lite annan vinkel på, så den blir mer en. Utbildning, man får sniffa lite på informationerna. När kommer vi ta ett beslut sen? Är det här något för oss? I det här läget?
+
+Teams Stockholm - 2:09:56
+Ja, jättebra. För jag ser att vi har den fredag den 7 november.
+
+Thomas Engdahl 1 - 2:10:01
+Sånt tar du med mig. Om du nu inte kan. Jag tänkte att Thomas viftar.
+
+Teams Stockholm - 2:10:08
+Yes Thomas.
+
+Thomas Engdahl 1 - 2:10:11
+Jag tänkte en tråkig fråga.
+
+Teams Stockholm - 2:10:13
+Vårt hållbarhetsarbete och hur mycket energi AI tar.
+
+Thomas Engdahl 1 - 2:10:17
+Är det en fråga i världen att det är plus och minus på det här? Jag googlade fram, eller AI-ade fram att det drar lika mycket som hela Japans energiproduktion 2030 räknar man med. Är det restriktioner på användare eller hur tänker man?
+
+Teams Stockholm - 2:10:35
+Kort summerat så är det som tar kraft att ta fram modellerna. Alltså skapa grundmodellen. Men att ni ställer frågor är ungefär som att göra en googling i energimängd. Beroende på vad. Om man gör en deep research fråga så tar det såklart mer energi. Så det är två nyanser i det Thomas. Ni ska inte ha så dåligt samvete över era frågor. Men om man kollar på det, hela svaret på frågan är att ta fram de här AI-modellerna, det tar mycket energi. Det tar mycket resurser att köra de här stora datacentren. Det är en sanning.
+
+Thomas Engdahl - 2:11:25
+Så det är egentligen att ta fram modellerna som är? är grejen. Att använda det är mycket mindre.
+
+Teams Stockholm - 2:11:32
+Garanterat. Det blir löjligt när man jämför med att ställa frågor och hur mycket energi det tar kring att köra en mikro i 10 sekunder. Det tar mycket mer energi än att få svar på en fråga. Men den senaste datan på de normala modellerna är att det tar ungefär lika mycket som en googling.
+
+Thomas Engdahl - 2:11:58
+Det är bra att veta. Tack.
+
+Teams Stockholm - 2:12:00
+Ja. Bra. Nej, jag måste hinna äta lunch. Jaha. Tack så mycket.
+
+Okänd - 2:12:07
+Tack, hörni.
+
+Teams Stockholm - 2:12:09
+Supertrevligt att träffa er. Lycka till.
+
+Ines Lopes - 2:12:12
+Tack.
