@@ -2,10 +2,6 @@
   "name": "Email Triage - M365 till Gmail",
   "nodes": [
     {
-      "id": "trigger-hourly",
-      "name": "Varje timme",
-      "type": "n8n-nodes-base.scheduleTrigger",
-      "position": [100, 300],
       "parameters": {
         "rule": {
           "interval": [
@@ -15,13 +11,14 @@
             }
           ]
         }
-      }
+      },
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "name": "Varje timme",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [100, 300]
     },
     {
-      "id": "trigger-morning",
-      "name": "Morgon 07:00",
-      "type": "n8n-nodes-base.scheduleTrigger",
-      "position": [100, 500],
       "parameters": {
         "rule": {
           "interval": [
@@ -31,65 +28,61 @@
             }
           ]
         }
-      }
+      },
+      "id": "b2c3d4e5-f6a7-8901-bcde-f23456789012",
+      "name": "Morgon 07:00",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [100, 500]
     },
     {
-      "id": "m365-get-emails",
+      "parameters": {
+        "resource": "message",
+        "operation": "getAll",
+        "returnAll": false,
+        "limit": 50,
+        "filters": {
+          "isRead": false
+        }
+      },
+      "id": "c3d4e5f6-a7b8-9012-cdef-345678901234",
       "name": "Hämta nya mejl",
       "type": "n8n-nodes-base.microsoftOutlook",
+      "typeVersion": 2,
       "position": [300, 300],
-      "parameters": {
-        "operation": "getAll",
-        "folderId": "inbox",
-        "filters": {
-          "isRead": false,
-          "receivedAfter": "={{ $now.minus({hours: 1}).toISO() }}"
-        },
-        "returnAll": false,
-        "limit": 50
-      },
       "credentials": {
         "microsoftOutlookOAuth2Api": {
-          "id": "MICROSOFT_CREDENTIAL_ID",
-          "name": "Microsoft 365"
+          "id": "",
+          "name": ""
         }
       }
     },
     {
-      "id": "m365-get-calendar",
+      "parameters": {
+        "resource": "event",
+        "operation": "getAll",
+        "returnAll": true,
+        "filters": {}
+      },
+      "id": "d4e5f6a7-b8c9-0123-def0-456789012345",
       "name": "Hämta dagens kalender",
       "type": "n8n-nodes-base.microsoftOutlook",
+      "typeVersion": 2,
       "position": [300, 500],
-      "parameters": {
-        "resource": "calendar",
-        "operation": "getAll",
-        "timeMin": "={{ $now.startOf('day').toISO() }}",
-        "timeMax": "={{ $now.endOf('day').toISO() }}",
-        "returnAll": true
-      },
       "credentials": {
         "microsoftOutlookOAuth2Api": {
-          "id": "MICROSOFT_CREDENTIAL_ID",
-          "name": "Microsoft 365"
+          "id": "",
+          "name": ""
         }
       }
     },
     {
-      "id": "ai-classify-email",
-      "name": "AI: Klassificera mejl",
-      "type": "@n8n/n8n-nodes-langchain.openAi",
-      "position": [500, 300],
       "parameters": {
         "model": "gpt-4o-mini",
         "messages": {
           "values": [
             {
-              "role": "system",
               "content": "Du är en email-assistent som klassificerar inkommande mejl.\n\nUPPGIFT: Analysera mejlet och returnera JSON med klassificering.\n\nKATEGORIER:\n- \"viktigt\": Kund-relaterat, affärskritiskt, kräver svar inom 24h\n- \"info\": Bra att veta, men inget akut\n- \"skip\": Nyhetsbrev, reklam, automatiserade notiser\n\nRETURNERA ENDAST JSON:\n{\n  \"kategori\": \"viktigt\" | \"info\" | \"skip\",\n  \"anledning\": \"En mening som förklarar varför\",\n  \"sammanfattning\": \"2-3 meningar om mejlets innehåll\"\n}\n\nREGLER:\n- Mejl från kunder = alltid \"viktigt\"\n- Fakturor och betalningar = \"viktigt\"\n- Nyhetsbrev = \"skip\"\n- LinkedIn-notiser = \"skip\"\n- Kalenderinbjudningar = \"viktigt\"\n- Interna system-notiser = \"info\""
-            },
-            {
-              "role": "user",
-              "content": "Från: {{ $json.from.emailAddress.address }}\nÄmne: {{ $json.subject }}\n\n{{ $json.bodyPreview }}"
             }
           ]
         },
@@ -97,29 +90,25 @@
           "temperature": 0.1
         }
       },
+      "id": "e5f6a7b8-c9d0-1234-ef01-567890123456",
+      "name": "AI Klassificera mejl",
+      "type": "@n8n/n8n-nodes-langchain.openAi",
+      "typeVersion": 1,
+      "position": [500, 300],
       "credentials": {
         "openAiApi": {
-          "id": "OPENAI_CREDENTIAL_ID",
-          "name": "OpenAI"
+          "id": "",
+          "name": ""
         }
       }
     },
     {
-      "id": "ai-summarize-calendar",
-      "name": "AI: Summera kalender",
-      "type": "@n8n/n8n-nodes-langchain.openAi",
-      "position": [500, 500],
       "parameters": {
         "model": "gpt-4o-mini",
         "messages": {
           "values": [
             {
-              "role": "system",
-              "content": "Du sammanfattar dagens kalender.\n\nUPPGIFT: Skapa en kort morgonöversikt.\n\nFORMAT:\n📅 [Datum]\n\n[TID] - [Möte/Rubrik]\n  → [En rad kontext om relevant]\n\n---\nTotalt: X möten idag\n\nREGLER:\n- Max 1 rad per möte\n- Skippa lunch/fokustid om inget speciellt\n- Flagga dubbelbokningar med ⚠️"
-            },
-            {
-              "role": "user",
-              "content": "Dagens datum: {{ $now.format('yyyy-MM-dd') }}\n\nKalenderhändelser:\n{{ JSON.stringify($json, null, 2) }}"
+              "content": "Du sammanfattar dagens kalender.\n\nUPPGIFT: Skapa en kort morgonöversikt.\n\nFORMAT:\n📅 Dagens datum\n\n[TID] - [Möte/Rubrik]\n→ [En rad kontext om relevant]\n\n---\nTotalt: X möten idag\n\nREGLER:\n- Max 1 rad per möte\n- Skippa lunch/fokustid om inget speciellt\n- Flagga dubbelbokningar med ⚠️"
             }
           ]
         },
@@ -127,159 +116,176 @@
           "temperature": 0.3
         }
       },
+      "id": "f6a7b8c9-d0e1-2345-f012-678901234567",
+      "name": "AI Summera kalender",
+      "type": "@n8n/n8n-nodes-langchain.openAi",
+      "typeVersion": 1,
+      "position": [500, 500],
       "credentials": {
         "openAiApi": {
-          "id": "OPENAI_CREDENTIAL_ID",
-          "name": "OpenAI"
+          "id": "",
+          "name": ""
         }
       }
     },
     {
-      "id": "parse-json",
+      "parameters": {
+        "jsCode": "const items = $input.all();\nconst results = [];\n\nfor (const item of items) {\n  try {\n    const content = item.json.message?.content || item.json.text || JSON.stringify(item.json);\n    const parsed = JSON.parse(content);\n    results.push({ json: { ...parsed, originalEmail: item.json } });\n  } catch (e) {\n    results.push({ json: { kategori: 'info', anledning: 'Kunde inte parsa', sammanfattning: 'Se original' } });\n  }\n}\n\nreturn results;"
+      },
+      "id": "a7b8c9d0-e1f2-3456-0123-789012345678",
       "name": "Parsa AI-svar",
       "type": "n8n-nodes-base.code",
-      "position": [700, 300],
-      "parameters": {
-        "jsCode": "const aiResponse = $input.first().json.message.content;\ntry {\n  const parsed = JSON.parse(aiResponse);\n  return [{ json: { ...parsed, originalEmail: $input.first().json } }];\n} catch (e) {\n  return [{ json: { kategori: 'info', anledning: 'Kunde inte parsa', sammanfattning: aiResponse } }];\n}"
-      }
+      "typeVersion": 2,
+      "position": [700, 300]
     },
     {
-      "id": "filter-viktigt",
-      "name": "Filter: Endast viktigt",
-      "type": "n8n-nodes-base.filter",
-      "position": [900, 300],
       "parameters": {
         "conditions": {
-          "string": [
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict"
+          },
+          "conditions": [
             {
-              "value1": "={{ $json.kategori }}",
-              "value2": "viktigt",
-              "operation": "equals"
+              "id": "condition-1",
+              "leftValue": "={{ $json.kategori }}",
+              "rightValue": "viktigt",
+              "operator": {
+                "type": "string",
+                "operation": "equals"
+              }
             }
-          ]
+          ],
+          "combinator": "and"
         }
-      }
+      },
+      "id": "b8c9d0e1-f2a3-4567-1234-890123456789",
+      "name": "Filter Endast viktigt",
+      "type": "n8n-nodes-base.filter",
+      "typeVersion": 2,
+      "position": [900, 300]
     },
     {
-      "id": "gmail-forward",
-      "name": "Gmail: Skicka viktigt mejl",
+      "parameters": {
+        "sendTo": "DIN_GMAIL@gmail.com",
+        "subject": "=[VIKTIGT] {{ $json.originalEmail.subject }}",
+        "message": "📬 Vidarebefordrat från M365\n\n{{ $json.sammanfattning }}\n\n---\nAnledning: {{ $json.anledning }}\n\n---\nOriginal mejl preview finns i M365"
+      },
+      "id": "c9d0e1f2-a3b4-5678-2345-901234567890",
+      "name": "Gmail Skicka viktigt",
       "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2,
       "position": [1100, 300],
-      "parameters": {
-        "operation": "send",
-        "sendTo": "DIN_GMAIL@gmail.com",
-        "subject": "[VIKTIGT] {{ $json.originalEmail.subject }}",
-        "message": "📬 Vidarebefordrat från M365\n\n{{ $json.sammanfattning }}\n\n---\nAnledning: {{ $json.anledning }}\nFrån: {{ $json.originalEmail.from.emailAddress.address }}\n\n---\nOriginal:\n{{ $json.originalEmail.bodyPreview }}"
-      },
       "credentials": {
         "gmailOAuth2": {
-          "id": "GMAIL_CREDENTIAL_ID",
-          "name": "Gmail"
+          "id": "",
+          "name": ""
         }
       }
     },
     {
-      "id": "gmail-calendar-summary",
-      "name": "Gmail: Morgonsummering",
-      "type": "n8n-nodes-base.gmail",
-      "position": [700, 500],
       "parameters": {
-        "operation": "send",
         "sendTo": "DIN_GMAIL@gmail.com",
-        "subject": "📅 Dagens schema - {{ $now.format('yyyy-MM-dd') }}",
-        "message": "{{ $json.message.content }}"
+        "subject": "=📅 Dagens schema",
+        "message": "={{ $json.message?.content || $json.text || 'Inga möten idag' }}"
       },
+      "id": "d0e1f2a3-b4c5-6789-3456-012345678901",
+      "name": "Gmail Morgonsummering",
+      "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2,
+      "position": [700, 500],
       "credentials": {
         "gmailOAuth2": {
-          "id": "GMAIL_CREDENTIAL_ID",
-          "name": "Gmail"
+          "id": "",
+          "name": ""
         }
       }
     }
   ],
   "connections": {
-    "trigger-hourly": {
+    "Varje timme": {
       "main": [
         [
           {
-            "node": "m365-get-emails",
+            "node": "Hämta nya mejl",
             "type": "main",
             "index": 0
           }
         ]
       ]
     },
-    "trigger-morning": {
+    "Morgon 07:00": {
       "main": [
         [
           {
-            "node": "m365-get-calendar",
+            "node": "Hämta dagens kalender",
             "type": "main",
             "index": 0
           }
         ]
       ]
     },
-    "m365-get-emails": {
+    "Hämta nya mejl": {
       "main": [
         [
           {
-            "node": "ai-classify-email",
+            "node": "AI Klassificera mejl",
             "type": "main",
             "index": 0
           }
         ]
       ]
     },
-    "m365-get-calendar": {
+    "Hämta dagens kalender": {
       "main": [
         [
           {
-            "node": "ai-summarize-calendar",
+            "node": "AI Summera kalender",
             "type": "main",
             "index": 0
           }
         ]
       ]
     },
-    "ai-classify-email": {
+    "AI Klassificera mejl": {
       "main": [
         [
           {
-            "node": "parse-json",
+            "node": "Parsa AI-svar",
             "type": "main",
             "index": 0
           }
         ]
       ]
     },
-    "ai-summarize-calendar": {
+    "AI Summera kalender": {
       "main": [
         [
           {
-            "node": "gmail-calendar-summary",
+            "node": "Gmail Morgonsummering",
             "type": "main",
             "index": 0
           }
         ]
       ]
     },
-    "parse-json": {
+    "Parsa AI-svar": {
       "main": [
         [
           {
-            "node": "filter-viktigt",
+            "node": "Filter Endast viktigt",
             "type": "main",
             "index": 0
           }
         ]
       ]
     },
-    "filter-viktigt": {
+    "Filter Endast viktigt": {
       "main": [
         [
           {
-            "node": "gmail-forward",
+            "node": "Gmail Skicka viktigt",
             "type": "main",
             "index": 0
           }
@@ -289,5 +295,6 @@
   },
   "settings": {
     "executionOrder": "v1"
-  }
+  },
+  "triggerCount": 2
 }
